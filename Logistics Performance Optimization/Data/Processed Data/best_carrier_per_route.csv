@@ -1,0 +1,21 @@
+route_name,Clear,Fog,Rain,Storm
+Route_1,Truck,Truck,3PL Partner,Van
+Route_2,Truck,Van,Bike,Truck
+Route_3,Van,Truck,3PL Partner,Bike
+Route_4,Bike,Bike,Truck,Truck
+Route_5,Truck,Bike,Truck,Bike
+Route_6,Van,Van,Bike,Truck
+Route_7,Truck,Bike,Truck,3PL Partner
+Route_8,Bike,3PL Partner,Bike,Bike
+Route_9,3PL Partner,Van,Bike,Truck
+Route_10,Bike,Van,3PL Partner,Van
+Route_11,Van,Truck,Truck,Truck
+Route_12,Bike,3PL Partner,Bike,Bike
+Route_13,3PL Partner,3PL Partner,Bike,Bike
+Route_14,Truck,Bike,Bike,3PL Partner
+Route_15,Truck,Bike,Van,Bike
+Route_16,Truck,Van,Truck,Van
+Route_17,3PL Partner,3PL Partner,Bike,Bike
+Route_18,Bike,Truck,Bike,Bike
+Route_19,3PL Partner,3PL Partner,Truck,Truck
+Route_20,Van,3PL Partner,Truck,Van
