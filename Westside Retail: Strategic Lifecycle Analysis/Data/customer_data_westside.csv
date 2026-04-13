@@ -1,0 +1,1001 @@
+purchaser_id,name,age,gender,income,product,purchase_amount,purchase_date,city,area
+1,Kartik Iyengar,63,Female,57443,T-shirt,990.56,01-02-24,Nagpur,Sadar
+2,Riaan Dara,35,Male,80128,Shirt,2138.17,15-07-24,Nagpur,Lakadganj
+3,Rania Amble,59,Male,73393,Jeans,1381.03,21-07-24,Nagpur,Dharampeth
+4,Hansh Biswas,29,Male,65870,Shirt,1694.15,03-05-24,Nagpur,Lakadganj
+5,Nehmat Comar,41,Male,91533,T-shirt,1002.9,28-04-24,Nagpur,Sadar
+6,Fateh Vig,52,Male,64179,Shirt,2496.56,29-06-24,Nagpur,Gandhibagh
+7,Vritika Solanki,32,Male,56534,T-shirt,529.18,09-04-24,Nagpur,Sadar
+8,Uthkarsh Balakrishnan,34,Male,63966,T-shirt,1108.64,19-07-24,Nagpur,Ajni
+9,Nakul Dhar,32,Female,55026,T-shirt,1961.41,13-03-24,Nagpur,Dharampeth
+10,Shalv Buch,51,Male,55006,T-shirt,605.28,03-07-24,Nagpur,Sadar
+11,Diya Dugal,19,Male,51889,Shirt,1439.13,21-05-24,Nagpur,Mahal
+12,Tarini Randhawa,57,Female,58994,T-shirt,2231,07-08-24,Nagpur,Dharampeth
+13,Akarsh Toor,36,Female,67184,T-shirt,1507.25,24-03-24,Nagpur,Dharampeth
+14,Anya Chahal,56,Male,73183,Jeans,945.07,24-07-24,Nagpur,Mahal
+15,Emir Chopra,33,Female,49323,Jeans,781.59,07-03-24,Nagpur,Sitabuldi
+16,Prerak Gill,64,Female,85537,T-shirt,700.75,04-07-24,Nagpur,Sitabuldi
+17,Dhruv Rau,56,Male,98080,Jeans,2478.07,23-02-24,Nagpur,Dharampeth
+18,Biju Jayaraman,64,Male,95305,Jeans,1314.26,04-08-24,Nagpur,Mahal
+19,Nirvaan Sachdev,62,Female,54023,Jeans,1244.58,08-03-24,Nagpur,Mahal
+20,Vanya Brar,59,Male,32464,Shirt,1148.17,16-06-24,Nagpur,Dharampeth
+21,Zain Barad,22,Female,30463,T-shirt,2012.75,02-07-24,Nagpur,Mahal
+22,Nishith Gupta,18,Female,48227,Shirt,972.49,06-08-24,Nagpur,Civil Lines
+23,Divit Kumer,26,Female,37587,Shirt,1589.89,30-04-24,Nagpur,Dharampeth
+24,Alisha Bhat,22,Male,73804,Shirt,1213.11,28-01-24,Nagpur,Mahal
+25,Ojas Dora,43,Male,86698,T-shirt,695.87,26-02-24,Nagpur,Civil Lines
+26,Jhanvi Subramanian,34,Female,52050,T-shirt,964.2,20-07-24,Nagpur,Civil Lines
+27,Shamik Sundaram,38,Male,85676,T-shirt,1087.85,22-04-24,Nagpur,Sadar
+28,Aayush Sule,49,Male,63001,T-shirt,1187.03,14-04-24,Nagpur,Sitabuldi
+29,Samarth Kashyap,21,Female,76983,T-shirt,1637.03,08-02-24,Nagpur,Civil Lines
+30,Farhan Grewal,35,Female,97433,Jeans,1800.49,17-06-24,Nagpur,Sadar
+31,Anya Edwin,59,Female,99489,Jeans,1504.93,15-03-24,Nagpur,Mahal
+32,Mehul Kannan,42,Male,98432,Shirt,1785,01-03-24,Nagpur,Gandhibagh
+33,Neysa Sampath,59,Female,69036,Jeans,2327.77,18-02-24,Nagpur,Mahal
+34,Romil Sandhu,38,Male,58614,T-shirt,2373.1,26-07-24,Nagpur,Sitabuldi
+35,Dishani Banik,55,Male,55853,Jeans,2479.67,31-01-24,Nagpur,Lakadganj
+36,Prisha Kohli,38,Male,90387,T-shirt,1170.35,21-01-24,Nagpur,Civil Lines
+37,Armaan Mammen,47,Female,34615,Shirt,2300.86,12-04-24,Nagpur,Sitabuldi
+38,Jayesh Chacko,59,Female,42340,Shirt,2015.18,15-04-24,Nagpur,Mahal
+39,Uthkarsh Kuruvilla,65,Female,43875,Jeans,1085.45,07-01-24,Nagpur,Dharampeth
+40,Rasha Ram,29,Male,66541,Jeans,1913.65,01-04-24,Nagpur,Dharampeth
+41,Divij Bath,24,Female,84266,T-shirt,2307.61,18-02-24,Nagpur,Sadar
+42,Vaibhav Tiwari,26,Male,91013,T-shirt,2025.83,13-03-24,Nagpur,Mahal
+43,Piya Hora,57,Female,92746,Jeans,1545.74,20-03-24,Nagpur,Civil Lines
+44,Anvi Bera,62,Female,44663,Jeans,2169.72,27-01-24,Nagpur,Sadar
+45,Rati Mander,48,Female,55582,T-shirt,2268.15,09-05-24,Nagpur,Dharampeth
+46,Rania Rajan,20,Male,75336,T-shirt,1922.21,29-03-24,Nagpur,Mahal
+47,Aayush Raval,54,Female,92270,Jeans,2089.61,25-06-24,Nagpur,Mahal
+48,Myra Kala,61,Female,87239,Shirt,565,01-01-24,Nagpur,Lakadganj
+49,Priyansh Singhal,48,Female,41598,Shirt,851.88,25-05-24,Nagpur,Lakadganj
+50,Nayantara Subramaniam,64,Female,46312,T-shirt,1946.81,22-03-24,Nagpur,Lakadganj
+51,Hridaan Bava,25,Female,99855,Shirt,2455.41,11-05-24,Nagpur,Lakadganj
+52,Dhanuk Goyal,43,Female,86085,T-shirt,884.14,16-01-24,Nagpur,Sadar
+53,Romil Kadakia,53,Male,35469,Shirt,1883.95,09-05-24,Nagpur,Civil Lines
+54,Charvi Sarkar,20,Female,53518,T-shirt,2369.09,24-04-24,Nagpur,Sitabuldi
+55,Zain Ray,33,Male,98104,Shirt,932.59,06-05-24,Nagpur,Lakadganj
+56,Kavya Johal,31,Male,98251,Jeans,2329.71,17-03-24,Nagpur,Dharampeth
+57,Vihaan Khare,24,Female,99166,Shirt,1726.72,24-03-24,Nagpur,Gandhibagh
+58,Sahil Upadhyay,20,Male,96585,Jeans,556.22,09-03-24,Nagpur,Mahal
+59,Rhea Gaba,39,Female,65261,Jeans,650.42,17-01-24,Nagpur,Gandhibagh
+60,Anvi Batra,40,Female,34240,T-shirt,1444.86,20-03-24,Nagpur,Gandhibagh
+61,Heer Shan,30,Male,80334,T-shirt,1165.74,06-02-24,Nagpur,Dharampeth
+62,Farhan Kakar,48,Female,57308,T-shirt,1309.65,22-04-24,Nagpur,Dharampeth
+63,Indrans Deep,29,Male,93213,Shirt,1397.45,10-01-24,Nagpur,Lakadganj
+64,Prerak Gade,55,Female,45343,T-shirt,1276.7,12-07-24,Nagpur,Gandhibagh
+65,Kavya Iyer,19,Male,40953,T-shirt,1346.81,23-07-24,Nagpur,Civil Lines
+66,Nishith Uppal,34,Female,66640,Shirt,1846.57,02-03-24,Nagpur,Sadar
+67,Zain Bakshi,65,Male,60093,T-shirt,1607.95,03-02-24,Nagpur,Ajni
+68,Ivana Dasgupta,47,Male,95612,Jeans,1364.1,30-05-24,Nagpur,Ajni
+69,Himmat Chada,44,Female,76164,T-shirt,1235.34,07-05-24,Nagpur,Lakadganj
+70,Badal Barman,43,Female,59860,Jeans,2119.32,07-07-24,Nagpur,Sadar
+71,Baiju Hora,52,Male,71262,Shirt,2464.42,08-05-24,Nagpur,Sitabuldi
+72,Akarsh Borah,37,Male,80431,Jeans,1724.53,09-05-24,Nagpur,Mahal
+73,Diya Arya,43,Male,69733,T-shirt,2030.76,23-05-24,Nagpur,Lakadganj
+74,Kiaan Kumer,34,Female,32129,Jeans,1923.64,05-02-24,Nagpur,Dharampeth
+75,Akarsh Khanna,52,Female,86111,T-shirt,1780.36,06-01-24,Nagpur,Dharampeth
+76,Gatik Savant,23,Male,83871,T-shirt,1807.17,29-05-24,Nagpur,Gandhibagh
+77,Taran Upadhyay,52,Female,47320,Shirt,800.94,22-07-24,Nagpur,Civil Lines
+78,Taimur Jayaraman,21,Male,37005,Jeans,1291.35,14-06-24,Nagpur,Mahal
+79,Charvi Balasubramanian,51,Male,76225,Jeans,1582.35,16-05-24,Nagpur,Sitabuldi
+80,Umang Mahajan,35,Female,71196,Jeans,2058.66,11-07-24,Nagpur,Mahal
+81,Jhanvi Sami,63,Female,71550,Jeans,2097.17,08-02-24,Nagpur,Ajni
+82,Nishith Bakshi,34,Female,73814,Shirt,1050.57,28-02-24,Nagpur,Sadar
+83,Aarna Gala,56,Female,96284,T-shirt,1702.79,10-05-24,Nagpur,Ajni
+84,Urvi Rout,23,Female,62237,Shirt,1299.62,14-06-24,Nagpur,Sadar
+85,Azad Goyal,23,Male,58494,Shirt,690.19,17-07-24,Nagpur,Sadar
+86,Jayesh Sami,42,Female,66193,T-shirt,531.45,20-03-24,Nagpur,Dharampeth
+87,Yakshit Varghese,43,Male,86040,Jeans,847.54,23-06-24,Nagpur,Sitabuldi
+88,Raunak Kalla,61,Male,30400,Jeans,2367.08,10-01-24,Nagpur,Dharampeth
+89,Yuvraj  Kara,47,Female,86743,T-shirt,1093.55,08-03-24,Nagpur,Dharampeth
+90,Saira Chowdhury,54,Male,78292,Shirt,765.14,05-07-24,Nagpur,Sadar
+91,Pari Toor,44,Male,50531,Shirt,1806.81,25-04-24,Nagpur,Sitabuldi
+92,Navya Bhattacharyya,60,Male,67409,Shirt,2031.29,23-06-24,Nagpur,Ajni
+93,Taran Raja,58,Female,69273,Shirt,1870.68,11-07-24,Nagpur,Sadar
+94,Ishita Borde,49,Male,36419,T-shirt,1955.13,19-07-24,Nagpur,Sitabuldi
+95,Rohan Yadav,20,Male,79330,Shirt,2294.98,06-04-24,Nagpur,Dharampeth
+96,Jayan Dugar,50,Female,31568,Shirt,720.61,24-07-24,Nagpur,Gandhibagh
+97,Adah Chaudhari,41,Female,87857,Shirt,1031.35,12-07-24,Nagpur,Sitabuldi
+98,Badal Dutt,57,Female,51751,T-shirt,1214.94,28-03-24,Nagpur,Dharampeth
+99,Piya Dhar,27,Male,97635,T-shirt,999.92,26-05-24,Nagpur,Sitabuldi
+100,Badal Bose,64,Male,30633,T-shirt,2496.34,05-08-24,Nagpur,Gandhibagh
+101,Vedika Mangat,48,Male,91753,Jeans,1715.84,05-04-24,Nagpur,Dharampeth
+102,Navya Garde,47,Female,70036,T-shirt,1947.22,07-03-24,Nagpur,Mahal
+103,Nayantara Deshpande,36,Female,98013,T-shirt,1487.03,29-02-24,Nagpur,Mahal
+104,Lagan Ben,24,Female,37940,Jeans,1150.36,02-01-24,Nagpur,Dharampeth
+105,Shanaya Rajagopal,41,Male,36522,Jeans,962.28,12-02-24,Nagpur,Dharampeth
+106,Advika Verma,34,Male,33568,Jeans,2109.13,31-05-24,Nagpur,Lakadganj
+107,Ahana  Biswas,62,Female,78055,T-shirt,1216.7,23-02-24,Nagpur,Gandhibagh
+108,Nirvaan Bora,28,Female,94050,Shirt,1282.45,08-01-24,Nagpur,Dharampeth
+109,Samarth Chandran,56,Female,80131,Jeans,801.86,15-01-24,Nagpur,Civil Lines
+110,Hazel Gera,47,Female,87023,T-shirt,742.15,14-04-24,Nagpur,Sadar
+111,Yuvraj  Srivastava,48,Female,44695,Jeans,2351.64,28-04-24,Nagpur,Sitabuldi
+112,Rhea Mann,23,Female,51264,T-shirt,595.82,15-07-24,Nagpur,Sadar
+113,Shayak Sandhu,30,Male,95023,T-shirt,796.53,25-05-24,Nagpur,Sitabuldi
+114,Lagan Vohra,26,Male,67803,Shirt,1429.23,02-01-24,Nagpur,Gandhibagh
+115,Miraan Chana,25,Male,68162,Shirt,1037.89,13-03-24,Nagpur,Mahal
+116,Adira Srivastava,63,Female,91372,Jeans,1858.43,13-03-24,Nagpur,Gandhibagh
+117,Trisha Lanka,40,Male,60458,Jeans,2456.58,13-02-24,Nagpur,Dharampeth
+118,Aarush Maharaj,58,Female,87210,Jeans,903.83,27-04-24,Nagpur,Ajni
+119,Aniruddh Venkataraman,29,Female,58489,Jeans,1786.33,16-06-24,Nagpur,Mahal
+120,Hazel Manda,54,Female,73701,Jeans,1321.79,09-06-24,Nagpur,Sitabuldi
+121,Madhup Vohra,33,Female,63908,Shirt,2454.74,20-02-24,Nagpur,Ajni
+122,Aniruddh Dey,60,Female,45047,Shirt,864.76,23-01-24,Nagpur,Sitabuldi
+123,Jivika Khalsa,38,Male,62285,T-shirt,2369.19,11-03-24,Nagpur,Gandhibagh
+124,Saira Bhandari,46,Female,96917,Shirt,1094.39,27-04-24,Nagpur,Sadar
+125,Kavya Brahmbhatt,32,Female,88818,T-shirt,1199.47,31-01-24,Nagpur,Ajni
+126,Kaira Som,24,Female,30403,T-shirt,1595.02,24-04-24,Nagpur,Mahal
+127,Tanya Shetty,39,Female,50839,Jeans,1259.47,01-01-24,Nagpur,Lakadganj
+128,Seher Gopal,21,Female,89863,T-shirt,1722.84,02-06-24,Nagpur,Civil Lines
+129,Aarav Suri,62,Male,89928,Shirt,1092.16,08-04-24,Nagpur,Dharampeth
+130,Miraya Lad,36,Male,80841,Shirt,572.16,18-07-24,Nagpur,Gandhibagh
+131,Yuvraj  Contractor,55,Male,61256,Jeans,2360.29,03-05-24,Nagpur,Sadar
+132,Nayantara Buch,50,Male,55150,T-shirt,792.89,29-05-24,Nagpur,Ajni
+133,Bhavin Varughese,23,Male,77352,T-shirt,1913.14,11-04-24,Nagpur,Mahal
+134,Romil Chana,41,Female,92868,T-shirt,1177.05,19-01-24,Nagpur,Civil Lines
+135,Vedika Shere,59,Male,67351,T-shirt,1473.41,14-05-24,Nagpur,Ajni
+136,Dhruv Chauhan,52,Female,31095,T-shirt,2277.25,24-06-24,Nagpur,Dharampeth
+137,Vardaniya Sridhar,47,Female,39941,Jeans,2391.01,13-07-24,Nagpur,Lakadganj
+138,Tara Solanki,44,Female,60329,Shirt,1624.65,09-01-24,Nagpur,Lakadganj
+139,Ehsaan Tiwari,56,Male,93193,Shirt,744.97,26-05-24,Nagpur,Sitabuldi
+140,Purab Desai,47,Female,86142,Jeans,2334.58,08-07-24,Nagpur,Lakadganj
+141,Kavya Kara,49,Female,90341,T-shirt,1153.87,16-02-24,Nagpur,Mahal
+142,Kartik Ravel,25,Female,34618,Jeans,1701.96,08-04-24,Nagpur,Civil Lines
+143,Amani Bajwa,23,Female,71489,T-shirt,1528.75,04-04-24,Nagpur,Dharampeth
+144,Veer Kant,61,Male,63348,Jeans,960.5,23-06-24,Nagpur,Lakadganj
+145,Eshani Srinivas,56,Female,83223,Shirt,835.94,15-03-24,Nagpur,Mahal
+146,Biju Das,20,Female,84149,Shirt,1825.15,06-03-24,Nagpur,Sitabuldi
+147,Riaan Divan,24,Male,52774,Shirt,574.63,24-02-24,Nagpur,Mahal
+148,Jivin Sengupta,29,Female,35433,T-shirt,1278.68,24-02-24,Nagpur,Sitabuldi
+149,Mishti Gulati,53,Female,44090,Jeans,648.18,16-06-24,Nagpur,Sitabuldi
+150,Urvi Banerjee,34,Male,41380,Jeans,2465.8,30-01-24,Nagpur,Sitabuldi
+151,Advik Mall,19,Female,39726,Jeans,530.02,19-01-24,Nagpur,Sitabuldi
+152,Divyansh Chacko,29,Female,65109,Shirt,1231.77,29-05-24,Nagpur,Gandhibagh
+153,Tushar Dash,48,Male,97911,T-shirt,2347.5,17-05-24,Nagpur,Dharampeth
+154,Yuvaan Dugal,57,Male,68062,Jeans,1055.96,06-01-24,Nagpur,Sitabuldi
+155,Indrans Dara,23,Female,40992,Jeans,824.59,19-04-24,Nagpur,Sadar
+156,Himmat Anand,25,Male,96262,T-shirt,1298.73,11-02-24,Nagpur,Sitabuldi
+157,Shaan Chaudhry,37,Female,77828,Jeans,621.63,15-07-24,Nagpur,Civil Lines
+158,Nakul Aggarwal,53,Male,61141,Jeans,2475.83,01-01-24,Nagpur,Sadar
+159,Chirag Shanker,59,Male,61696,Jeans,832.77,20-03-24,Nagpur,Lakadganj
+160,Biju Thakur,42,Male,72550,Shirt,841.94,23-02-24,Nagpur,Mahal
+161,Tara Kalla,48,Male,36765,T-shirt,760.99,08-01-24,Nagpur,Civil Lines
+162,Tarini Zachariah,23,Male,64919,Jeans,922.82,15-05-24,Nagpur,Gandhibagh
+163,Ela Bawa,42,Male,60082,Shirt,1645.31,18-04-24,Nagpur,Sadar
+164,Miraan Barman,51,Female,86356,Jeans,1030.11,13-01-24,Nagpur,Sadar
+165,Rania Kakar,31,Male,45147,Jeans,1218.37,10-07-24,Nagpur,Ajni
+166,Dhruv Balasubramanian,63,Female,46700,Jeans,1876.88,10-03-24,Nagpur,Ajni
+167,Trisha Sura,65,Female,92506,T-shirt,1133.68,29-06-24,Nagpur,Ajni
+168,Anya Issac,32,Female,93445,Jeans,586.66,27-05-24,Nagpur,Sadar
+169,Dhanuk Bansal,56,Female,88377,T-shirt,2130.93,03-06-24,Nagpur,Civil Lines
+170,Drishya Goel,34,Female,41118,Jeans,1119.52,09-01-24,Nagpur,Ajni
+171,Ira Seth,47,Female,37073,T-shirt,1241.45,19-01-24,Nagpur,Sitabuldi
+172,Jayant Mall,54,Female,85110,Jeans,1364.92,02-04-24,Nagpur,Lakadganj
+173,Shayak Suri,50,Male,81875,Shirt,1064.73,25-07-24,Nagpur,Sitabuldi
+174,Indranil Sengupta,45,Female,34618,Shirt,1973.29,15-01-24,Nagpur,Ajni
+175,Hazel Madan,43,Female,90978,T-shirt,1454.05,22-02-24,Nagpur,Civil Lines
+176,Rania Saini,56,Male,94240,Jeans,1324.98,05-03-24,Nagpur,Mahal
+177,Hrishita Chawla,47,Female,93015,Jeans,966.77,20-03-24,Nagpur,Dharampeth
+178,Taran Zacharia,51,Female,90431,Shirt,1909.92,24-06-24,Nagpur,Sitabuldi
+179,Kismat Dhar,52,Female,45986,Shirt,753.99,07-03-24,Nagpur,Ajni
+180,Saira Kala,52,Female,98969,T-shirt,1715.07,23-06-24,Nagpur,Dharampeth
+181,Lakshit Kaul,58,Female,73111,Shirt,2080.19,22-03-24,Nagpur,Sadar
+182,Mamooty Sarna,38,Male,54118,Shirt,2243.82,29-02-24,Nagpur,Civil Lines
+183,Dhanuk Walia,31,Male,90780,T-shirt,2479.2,20-06-24,Nagpur,Gandhibagh
+184,Tejas Wason,61,Female,84843,Jeans,1135.81,29-04-24,Nagpur,Sitabuldi
+185,Eshani Toor,26,Male,81645,T-shirt,517.32,16-03-24,Nagpur,Sadar
+186,Reyansh Bera,25,Female,31470,Shirt,2121.6,02-04-24,Nagpur,Sitabuldi
+187,Shayak Dhawan,51,Female,75902,T-shirt,2064.34,11-04-24,Nagpur,Lakadganj
+188,Dishani Arya,33,Male,83284,Jeans,2177.31,28-06-24,Nagpur,Gandhibagh
+189,Stuvan Ram,41,Male,87653,T-shirt,1371.92,10-03-24,Nagpur,Lakadganj
+190,Aniruddh Mani,41,Male,56668,Shirt,1597.21,31-05-24,Nagpur,Sitabuldi
+191,Diya Samra,52,Female,66826,Jeans,1026.13,15-02-24,Nagpur,Ajni
+192,Parinaaz Kibe,47,Male,34040,Jeans,819.77,07-07-24,Nagpur,Ajni
+193,Umang Bala,63,Male,49616,Jeans,1202.18,17-02-24,Nagpur,Ajni
+194,Misha Jhaveri,33,Male,88707,Jeans,1241.56,14-03-24,Nagpur,Sitabuldi
+195,Miraan Bassi,59,Female,71417,T-shirt,1453.5,09-06-24,Nagpur,Civil Lines
+196,Mahika Samra,38,Male,57651,Shirt,1072.71,11-01-24,Nagpur,Ajni
+197,Devansh Sarna,29,Male,89681,Shirt,2303.98,04-06-24,Nagpur,Mahal
+198,Vivaan Seshadri,53,Female,64539,T-shirt,1949.53,20-01-24,Nagpur,Sitabuldi
+199,Indrans Hegde,53,Female,32076,Shirt,2176.18,01-08-24,Nagpur,Ajni
+200,Sara Dara,36,Female,45925,T-shirt,1162.5,01-08-24,Nagpur,Sitabuldi
+201,Damini Sood,50,Female,89771,Shirt,740.05,09-07-24,Nagpur,Lakadganj
+202,Onkar Dewan,43,Male,52232,Shirt,1888.26,05-03-24,Nagpur,Lakadganj
+203,Zoya Borra,39,Female,99364,T-shirt,1052.12,29-06-24,Nagpur,Gandhibagh
+204,Rania Mall,34,Female,80268,Jeans,2476.74,06-03-24,Nagpur,Ajni
+205,Samiha Cherian,52,Male,36325,Jeans,1723.46,22-01-24,Nagpur,Dharampeth
+206,Aarav Iyer,44,Male,98011,Jeans,592.46,31-05-24,Nagpur,Gandhibagh
+207,Zara Tiwari,58,Female,91913,Jeans,1117.12,02-05-24,Nagpur,Ajni
+208,Shray Raman,42,Male,47054,Jeans,1963.32,18-04-24,Nagpur,Sadar
+209,Rania Lanka,57,Male,97064,T-shirt,2300.02,04-02-24,Nagpur,Lakadganj
+210,Raunak Khanna,38,Female,77101,Jeans,1822.56,11-06-24,Nagpur,Lakadganj
+211,Anaya Khosla,18,Female,69339,Shirt,1978.26,10-03-24,Nagpur,Sitabuldi
+212,Nirvaan Subramanian,56,Male,53926,Jeans,1798.67,23-01-24,Nagpur,Gandhibagh
+213,Zain Zachariah,44,Male,80725,T-shirt,1140.68,22-01-24,Nagpur,Dharampeth
+214,Bhavin Divan,27,Male,94646,Shirt,1953.12,27-06-24,Nagpur,Sadar
+215,Lakshit Gade,41,Female,60336,Shirt,886.36,22-01-24,Nagpur,Sadar
+216,Miraan Keer,21,Male,60333,Jeans,2400.49,04-03-24,Nagpur,Mahal
+217,Tanya Khalsa,19,Male,56275,Shirt,2365.36,29-06-24,Nagpur,Sitabuldi
+218,Prisha Gole,41,Male,56188,T-shirt,2407.14,06-05-24,Nagpur,Gandhibagh
+219,Madhav Rastogi,20,Male,79561,Jeans,2241.65,07-01-24,Nagpur,Lakadganj
+220,Pari Vyas,40,Female,48961,Shirt,1962.23,29-05-24,Nagpur,Ajni
+221,Kanav Baral,53,Female,51775,Shirt,1161.64,25-07-24,Nagpur,Ajni
+222,Sana Virk,36,Female,82072,T-shirt,1289.57,06-08-24,Nagpur,Civil Lines
+223,Neysa Chakraborty,55,Male,53581,Shirt,1755.51,22-02-24,Nagpur,Sitabuldi
+224,Stuvan Ganesan,31,Male,49644,Shirt,2440.82,22-02-24,Nagpur,Sitabuldi
+225,Bhamini Walia,46,Female,46051,T-shirt,620.14,26-01-24,Nagpur,Mahal
+226,Biju Sampath,33,Male,51158,T-shirt,1093.89,22-06-24,Nagpur,Ajni
+227,Ivan Divan,35,Female,40041,Jeans,2388.61,13-03-24,Nagpur,Dharampeth
+228,Akarsh Handa,23,Male,44244,Shirt,1174.83,20-02-24,Nagpur,Civil Lines
+229,Rati Chanda,40,Male,50033,Jeans,2038.43,22-03-24,Nagpur,Sitabuldi
+230,Ira Yadav,36,Female,32391,T-shirt,1233.26,09-05-24,Nagpur,Sitabuldi
+231,Nayantara Sur,58,Female,41793,T-shirt,1328.08,28-03-24,Nagpur,Sitabuldi
+232,Saksham Chander,56,Female,64862,Jeans,2449.65,16-05-24,Nagpur,Sadar
+233,Diya Thaman,25,Male,81094,Jeans,818.86,16-03-24,Nagpur,Gandhibagh
+234,Mishti Brahmbhatt,36,Female,77771,Jeans,1608.93,18-03-24,Nagpur,Civil Lines
+235,Hridaan Madan,37,Female,82091,Shirt,1381.49,16-06-24,Nagpur,Dharampeth
+236,Ivan Dhar,52,Male,36632,T-shirt,1337.04,24-05-24,Nagpur,Gandhibagh
+237,Anahi Balan,62,Male,85462,T-shirt,911.69,21-01-24,Nagpur,Ajni
+238,Armaan Sha,51,Female,73913,T-shirt,2310.72,16-07-24,Nagpur,Mahal
+239,Aarna Chakraborty,61,Female,30021,T-shirt,1580.85,25-07-24,Nagpur,Civil Lines
+240,Sumer Ratti,41,Female,93944,Shirt,1658.16,20-05-24,Nagpur,Mahal
+241,Gatik Golla,60,Female,94428,T-shirt,1662.29,15-05-24,Nagpur,Dharampeth
+242,Suhana Chand,54,Female,99545,T-shirt,686.13,17-03-24,Nagpur,Mahal
+243,Seher Baria,43,Female,74888,T-shirt,2301.46,24-02-24,Nagpur,Lakadganj
+244,Zeeshan Kar,19,Female,31803,Jeans,563.73,16-01-24,Nagpur,Dharampeth
+245,Hridaan Shere,25,Female,63180,Jeans,2084.34,01-08-24,Nagpur,Sadar
+246,Hansh Loyal,62,Female,60223,Shirt,1441.64,06-07-24,Nagpur,Ajni
+247,Samiha Dani,31,Male,92005,Jeans,611.86,10-05-24,Nagpur,Lakadganj
+248,Bhamini Ranganathan,24,Female,94340,Jeans,2451.4,16-03-24,Nagpur,Ajni
+249,Manjari Tella,64,Female,45341,Jeans,633.09,22-02-24,Nagpur,Sadar
+250,Fateh Rao,60,Male,82479,T-shirt,1026.2,10-06-24,Nagpur,Civil Lines
+251,Seher Krishnan,36,Male,94722,Jeans,1031.35,10-06-24,Nagpur,Mahal
+252,Vivaan Bhatia,27,Female,32354,T-shirt,678.16,07-04-24,Nagpur,Sitabuldi
+253,Badal Mani,26,Female,64557,T-shirt,1090.12,02-07-24,Nagpur,Gandhibagh
+254,Yuvaan Ghosh,24,Female,97802,T-shirt,1127.44,08-01-24,Nagpur,Gandhibagh
+255,Zara Wable,28,Male,70257,Shirt,2404.63,06-08-24,Nagpur,Mahal
+256,Rohan Tella,36,Male,40214,Shirt,1719.94,10-02-24,Nagpur,Dharampeth
+257,Trisha Sachar,22,Male,87216,Shirt,2064.47,20-04-24,Nagpur,Mahal
+258,Samiha Kakar,61,Male,78319,Shirt,1697.41,29-02-24,Nagpur,Ajni
+259,Eshani Varma,22,Male,45503,Jeans,867.79,03-07-24,Nagpur,Mahal
+260,Amani Bail,48,Female,80461,Jeans,2301.7,23-01-24,Nagpur,Sitabuldi
+261,Heer Mahal,46,Female,37060,T-shirt,793.59,27-01-24,Nagpur,Mahal
+262,Jayesh Cheema,31,Female,69778,Shirt,765.55,07-03-24,Nagpur,Sadar
+263,Tanya Ramachandran,39,Female,65433,Shirt,1475.44,07-05-24,Nagpur,Mahal
+264,Rasha Viswanathan,19,Male,55093,Shirt,1574.13,23-04-24,Nagpur,Lakadganj
+265,Reyansh Doctor,20,Female,61477,T-shirt,1910.4,24-02-24,Nagpur,Gandhibagh
+266,Mishti Aggarwal,59,Female,94568,Shirt,764.17,11-01-24,Nagpur,Sadar
+267,Tara Atwal,38,Male,89889,Jeans,2386.2,18-04-24,Nagpur,Gandhibagh
+268,Onkar Vora,48,Male,96580,Shirt,2383.94,23-01-24,Nagpur,Ajni
+269,Alisha Virk,52,Female,52644,Shirt,2387.83,11-01-24,Nagpur,Dharampeth
+270,Saksham Din,26,Male,82817,T-shirt,946.17,15-06-24,Nagpur,Ajni
+271,Ela Raval,39,Female,55827,T-shirt,510.41,20-03-24,Nagpur,Lakadganj
+272,Sara Karpe,29,Male,97242,T-shirt,1989.62,11-04-24,Nagpur,Sadar
+273,Prerak Loke,26,Female,77746,Jeans,2357.74,11-02-24,Nagpur,Gandhibagh
+274,Saksham Mangat,42,Female,93563,Jeans,2000.65,25-07-24,Nagpur,Ajni
+275,Rasha Dani,44,Female,95507,Shirt,2085.39,08-02-24,Nagpur,Mahal
+276,Yuvraj  Sama,56,Female,92680,T-shirt,1123.32,22-04-24,Nagpur,Mahal
+277,Romil Sunder,38,Male,44328,Shirt,1105.32,14-04-24,Nagpur,Lakadganj
+278,Raghav Chaudry,63,Female,44108,Jeans,781.93,06-07-24,Nagpur,Sitabuldi
+279,Oorja Bobal,55,Female,82941,Jeans,2303.4,11-06-24,Nagpur,Civil Lines
+280,Shanaya Cheema,58,Female,65280,Jeans,1687.13,02-06-24,Nagpur,Mahal
+281,Shalv Grover,53,Female,71472,Shirt,1568.51,12-04-24,Nagpur,Dharampeth
+282,Anahita Shetty,49,Male,60553,T-shirt,1456.46,02-04-24,Nagpur,Sadar
+283,Emir Bawa,42,Male,93953,Jeans,1464.25,12-06-24,Nagpur,Civil Lines
+284,Tejas Borra,29,Female,48928,Jeans,1490.97,25-01-24,Nagpur,Civil Lines
+285,Riaan Sani,29,Female,39273,Jeans,2252.25,04-04-24,Nagpur,Gandhibagh
+286,Siya Kala,35,Female,59113,Shirt,2124.67,20-06-24,Nagpur,Lakadganj
+287,Aarush Krishnan,60,Male,91099,Jeans,2125.72,28-07-24,Nagpur,Dharampeth
+288,Vihaan Din,35,Female,85144,T-shirt,1162.48,22-01-24,Nagpur,Lakadganj
+289,Jivika Sathe,50,Male,41822,Shirt,2426.52,13-07-24,Nagpur,Mahal
+290,Rati Soman,34,Male,59039,T-shirt,1629.03,28-03-24,Nagpur,Sitabuldi
+291,Shlok Agrawal,52,Female,90085,Shirt,2152.73,28-05-24,Nagpur,Civil Lines
+292,Ranbir Dash,24,Female,68084,Shirt,1591.37,10-03-24,Nagpur,Ajni
+293,Lakshay Gill,58,Male,92400,Shirt,2098.73,23-02-24,Nagpur,Dharampeth
+294,Dhanush Setty,26,Female,92547,Jeans,2305.09,13-07-24,Nagpur,Civil Lines
+295,Jayesh Sur,55,Male,60057,T-shirt,1926.05,09-03-24,Nagpur,Mahal
+296,Lakshit Bahri,50,Female,95907,Shirt,713.41,18-04-24,Nagpur,Ajni
+297,Shayak Bahri,36,Female,97712,T-shirt,1153.01,03-05-24,Nagpur,Civil Lines
+298,Yasmin Chandra,51,Male,86189,Jeans,583.43,15-03-24,Nagpur,Civil Lines
+299,Devansh Varughese,18,Male,36819,Shirt,1861.05,21-03-24,Nagpur,Ajni
+300,Mahika Zachariah,34,Female,55404,T-shirt,1252.32,12-04-24,Nagpur,Gandhibagh
+301,Sahil Malhotra,19,Female,52798,T-shirt,1672.01,08-03-24,Nagpur,Lakadganj
+302,Himmat Kalita,46,Female,49816,Shirt,1742.52,10-01-24,Nagpur,Sadar
+303,Anahi Gara,42,Female,57147,Shirt,1938.03,12-04-24,Nagpur,Dharampeth
+304,Anaya Khanna,30,Female,89689,Shirt,1849.56,28-01-24,Nagpur,Dharampeth
+305,Hunar Verma,49,Female,90871,Jeans,2315.19,14-03-24,Nagpur,Mahal
+306,Parinaaz Raval,37,Male,91796,Jeans,801.93,04-04-24,Nagpur,Mahal
+307,Mahika Chokshi,28,Female,78814,Jeans,884.91,24-05-24,Nagpur,Ajni
+308,Advika Sabharwal,65,Male,66648,Jeans,1161.41,07-02-24,Nagpur,Civil Lines
+309,Suhana Reddy,64,Male,88911,T-shirt,1986.24,23-07-24,Nagpur,Sadar
+310,Eshani Wali,62,Male,88590,Shirt,1733.03,30-01-24,Nagpur,Lakadganj
+311,Azad Mann,19,Male,84944,Shirt,508.29,20-03-24,Nagpur,Sadar
+312,Manikya Sidhu,48,Male,61015,T-shirt,1905.5,02-01-24,Nagpur,Ajni
+313,Dharmajan Dhar,44,Female,50862,Jeans,1241.79,04-01-24,Nagpur,Sadar
+314,Tushar Magar,64,Female,72596,T-shirt,1508.51,21-02-24,Nagpur,Dharampeth
+315,Jivika Vora,44,Male,86548,Jeans,1371.69,20-05-24,Nagpur,Civil Lines
+316,Ayesha Bakshi,23,Male,45723,Shirt,689.82,03-04-24,Nagpur,Dharampeth
+317,Myra Savant,37,Female,43088,Jeans,2410.06,14-05-24,Nagpur,Gandhibagh
+318,Pari Zachariah,64,Female,95163,Shirt,701.18,09-05-24,Nagpur,Sitabuldi
+319,Suhana Sibal,44,Female,36179,Shirt,1916.74,20-02-24,Nagpur,Sadar
+320,Kartik Kata,30,Male,61363,Shirt,547.32,04-05-24,Nagpur,Dharampeth
+321,Divyansh Lalla,42,Male,43943,Jeans,1754.3,22-07-24,Nagpur,Sitabuldi
+322,Manikya Raj,61,Male,36183,Shirt,1266.42,04-07-24,Nagpur,Ajni
+323,Adah Ahuja,46,Male,88972,Shirt,1691.97,17-05-24,Nagpur,Ajni
+324,Hansh Suri,43,Male,79001,T-shirt,2285.17,28-01-24,Nagpur,Lakadganj
+325,Sahil Dara,58,Male,84414,Jeans,688.67,25-06-24,Nagpur,Sadar
+326,Dhanush Roy,27,Female,68018,Jeans,1587.55,17-04-24,Nagpur,Gandhibagh
+327,Zoya Hans,42,Male,48326,Shirt,1407.12,12-06-24,Nagpur,Civil Lines
+328,Gatik Srinivas,36,Male,72958,Shirt,2499.87,16-03-24,Nagpur,Mahal
+329,Ehsaan Tandon,49,Female,69157,Jeans,2386.46,06-04-24,Nagpur,Mahal
+330,Seher Cheema,30,Female,87052,T-shirt,1945.15,17-01-24,Nagpur,Lakadganj
+331,Advik Ahluwalia,53,Male,88221,Shirt,1478,14-05-24,Nagpur,Gandhibagh
+332,Vanya Thakur,35,Male,37621,Jeans,529.38,12-06-24,Nagpur,Gandhibagh
+333,Damini Sahota,55,Male,57138,Shirt,800.64,10-02-24,Nagpur,Sadar
+334,Biju Dhaliwal,32,Female,91721,T-shirt,1570.09,03-03-24,Nagpur,Sitabuldi
+335,Eshani Saraf,46,Female,93334,Shirt,526.93,11-05-24,Nagpur,Lakadganj
+336,Samiha Goyal,37,Female,91877,Jeans,2498.32,18-07-24,Nagpur,Sadar
+337,Ivana Sood,25,Female,88701,Jeans,639.01,06-02-24,Nagpur,Civil Lines
+338,Ahana  Choudhary,49,Female,91189,Shirt,2032.7,30-03-24,Nagpur,Sadar
+339,Samarth Gill,47,Female,68201,T-shirt,2272.42,25-06-24,Nagpur,Dharampeth
+340,Bhamini Dani,32,Male,62004,Shirt,500.08,02-08-24,Nagpur,Mahal
+341,Badal Loke,24,Female,96550,T-shirt,2117.99,21-03-24,Nagpur,Sitabuldi
+342,Purab Dash,57,Male,84251,T-shirt,1274.5,23-01-24,Nagpur,Gandhibagh
+343,Hiran Kunda,24,Female,40961,Jeans,1055.51,14-02-24,Nagpur,Sadar
+344,Ayesha Buch,65,Female,87614,Jeans,2388.03,03-06-24,Nagpur,Sitabuldi
+345,Jiya Joshi,60,Male,96749,Shirt,817.11,14-01-24,Nagpur,Civil Lines
+346,Darshit Dhawan,49,Female,35228,Jeans,2389.79,17-05-24,Nagpur,Mahal
+347,Uthkarsh Barad,45,Female,46096,Shirt,643.99,24-01-24,Nagpur,Sadar
+348,Farhan Mahal,23,Female,43611,T-shirt,1469.52,05-04-24,Nagpur,Lakadganj
+349,Hrishita Bali,38,Female,91037,Shirt,2305.49,07-08-24,Nagpur,Lakadganj
+350,Gokul Bahri,27,Male,46756,Shirt,517.72,24-04-24,Nagpur,Dharampeth
+351,Jayesh Brar,59,Male,58720,T-shirt,663.09,08-01-24,Nagpur,Gandhibagh
+352,Sahil Shankar,55,Female,59237,Shirt,523.71,29-05-24,Nagpur,Mahal
+353,Nitara Sule,46,Male,63615,Jeans,2007.02,11-03-24,Nagpur,Sadar
+354,Jayant Gaba,39,Female,71247,T-shirt,987.58,22-03-24,Nagpur,Gandhibagh
+355,Taran Dasgupta,19,Female,93661,T-shirt,1909.26,09-06-24,Nagpur,Ajni
+356,Raghav Saran,46,Male,70311,T-shirt,898.66,26-07-24,Nagpur,Civil Lines
+357,Hazel Varkey,42,Female,60982,T-shirt,1679.58,28-03-24,Nagpur,Mahal
+358,Parinaaz Singh,52,Female,69574,Shirt,1288.85,26-07-24,Nagpur,Mahal
+359,Emir Chakraborty,18,Male,60793,Jeans,1323.62,05-07-24,Nagpur,Gandhibagh
+360,Nitara Viswanathan,55,Male,66666,Shirt,799.51,16-05-24,Nagpur,Lakadganj
+361,Nitara Kunda,47,Female,73736,T-shirt,799.01,11-03-24,Nagpur,Mahal
+362,Tara Sarraf,41,Male,74965,T-shirt,1346.05,28-07-24,Nagpur,Sadar
+363,Adira Kulkarni,52,Female,33455,Shirt,2309.37,30-04-24,Nagpur,Gandhibagh
+364,Shanaya Anne,58,Female,56198,Jeans,1437.23,21-03-24,Nagpur,Sitabuldi
+365,Nitara Rana,47,Male,37163,Jeans,1923.27,23-02-24,Nagpur,Sitabuldi
+366,Nayantara Kapadia,22,Female,48626,Shirt,1071.09,12-07-24,Nagpur,Sitabuldi
+367,Ivan Sant,19,Female,64622,Jeans,863.14,14-07-24,Nagpur,Ajni
+368,Anika Chahal,44,Male,46712,Jeans,2354.35,27-05-24,Nagpur,Mahal
+369,Neysa Bava,55,Female,55955,T-shirt,818.08,05-08-24,Nagpur,Sadar
+370,Kartik Bahri,28,Male,39582,Jeans,2454.35,03-06-24,Nagpur,Sadar
+371,Reyansh Varughese,63,Male,51139,Shirt,1697.33,03-06-24,Nagpur,Dharampeth
+372,Nitya Shenoy,57,Male,49705,Jeans,1377.7,25-03-24,Nagpur,Dharampeth
+373,Azad Verma,29,Female,68249,Jeans,1935.07,31-01-24,Nagpur,Gandhibagh
+374,Jivika Solanki,43,Female,50567,Shirt,2420.87,30-07-24,Nagpur,Lakadganj
+375,Ehsaan Singhal,24,Male,80977,T-shirt,1016.19,19-01-24,Nagpur,Mahal
+376,Samar Subramaniam,36,Male,83036,T-shirt,2294.93,06-08-24,Nagpur,Gandhibagh
+377,Tanya Bhatnagar,33,Female,58945,T-shirt,701.14,17-01-24,Nagpur,Ajni
+378,Divyansh Chada,44,Female,64742,Jeans,1482.52,12-02-24,Nagpur,Dharampeth
+379,Romil Baria,54,Male,30259,Jeans,1242.52,13-05-24,Nagpur,Gandhibagh
+380,Suhana Dalal,64,Female,63487,Jeans,2302.89,16-02-24,Nagpur,Civil Lines
+381,Dishani Koshy,41,Female,97211,T-shirt,1490.76,24-04-24,Nagpur,Gandhibagh
+382,Gokul Lalla,27,Female,47221,T-shirt,1041.39,16-03-24,Nagpur,Ajni
+383,Neysa Thakur,57,Male,68565,Shirt,1606.46,19-06-24,Nagpur,Sadar
+384,Anay Khare,32,Male,88368,T-shirt,958.43,04-07-24,Nagpur,Sadar
+385,Trisha Kapadia,65,Female,38352,T-shirt,2342.76,06-05-24,Nagpur,Sitabuldi
+386,Kaira Wadhwa,63,Female,71031,Jeans,1708.79,05-01-24,Nagpur,Ajni
+387,Keya Guha,44,Female,40320,Jeans,880.77,01-04-24,Nagpur,Mahal
+388,Rati Ray,50,Female,45248,Jeans,1144.69,26-01-24,Nagpur,Sitabuldi
+389,Anvi De,18,Male,69872,Jeans,2188.27,27-07-24,Nagpur,Mahal
+390,Parinaaz Sant,59,Female,86123,Shirt,1748.42,19-06-24,Nagpur,Sitabuldi
+391,Neysa Savant,42,Male,78515,Jeans,850.81,26-06-24,Nagpur,Mahal
+392,Dhanuk Dora,65,Female,34224,Jeans,1799.19,26-02-24,Nagpur,Gandhibagh
+393,Hazel Buch,20,Male,88918,Jeans,959.82,17-05-24,Nagpur,Mahal
+394,Mannat Sachdev,18,Male,95052,T-shirt,1466.27,04-01-24,Nagpur,Sadar
+395,Rohan Khosla,20,Female,38924,Jeans,2410.24,10-04-24,Nagpur,Dharampeth
+396,Mohanlal Kumer,39,Male,54650,Jeans,1364.94,07-08-24,Nagpur,Ajni
+397,Yakshit Viswanathan,47,Female,82866,Shirt,2086.96,21-07-24,Nagpur,Sitabuldi
+398,Suhana Warrior,65,Female,59150,Jeans,2234.87,15-04-24,Nagpur,Sitabuldi
+399,Rati Wadhwa,61,Female,57156,Jeans,990.5,19-07-24,Nagpur,Lakadganj
+400,Mahika Rajagopal,29,Male,75111,Jeans,2067.58,29-07-24,Nagpur,Sitabuldi
+401,Saksham Sarna,20,Female,99758,Shirt,1174.57,27-01-24,Nagpur,Mahal
+402,Eshani Bath,52,Female,82750,T-shirt,805.54,09-07-24,Nagpur,Mahal
+403,Lakshit Wadhwa,41,Male,86866,T-shirt,1435.5,18-03-24,Nagpur,Ajni
+404,Nehmat Bhatt,18,Female,55485,T-shirt,2496.06,31-03-24,Nagpur,Lakadganj
+405,Yuvaan Sawhney,49,Female,70390,Jeans,2257.07,08-01-24,Nagpur,Gandhibagh
+406,Pihu Chandran,41,Male,98849,Shirt,1504.7,14-03-24,Nagpur,Gandhibagh
+407,Himmat Bawa,36,Female,64496,T-shirt,769.64,16-04-24,Nagpur,Lakadganj
+408,Arnav Mangal,59,Female,76955,Jeans,759.47,13-05-24,Nagpur,Sadar
+409,Reyansh Kala,40,Male,84646,Jeans,1178.55,04-02-24,Nagpur,Ajni
+410,Yasmin Hegde,26,Male,38125,T-shirt,727.36,12-05-24,Nagpur,Dharampeth
+411,Ela Chahal,58,Female,93522,Shirt,1168,15-06-24,Nagpur,Lakadganj
+412,Jayan Bal,50,Female,99362,Jeans,1421.15,14-05-24,Nagpur,Sitabuldi
+413,Sumer Ravel,44,Male,59355,Shirt,900.11,31-05-24,Nagpur,Gandhibagh
+414,Rati Goel,62,Female,35219,T-shirt,1477.11,27-04-24,Nagpur,Civil Lines
+415,Prisha D’Alia,56,Male,58723,Shirt,1201.95,06-07-24,Nagpur,Sadar
+416,Aniruddh Chaudhry,56,Male,87023,Jeans,904.89,15-06-24,Nagpur,Dharampeth
+417,Misha Bala,42,Male,80853,Shirt,603.58,25-03-24,Nagpur,Mahal
+418,Shalv Dugal,25,Male,60747,Shirt,2434.2,12-06-24,Nagpur,Civil Lines
+419,Shaan Gopal,61,Male,97369,Shirt,1819.69,30-06-24,Nagpur,Sadar
+420,Ivan Tandon,50,Female,74428,Shirt,1981.44,12-03-24,Nagpur,Civil Lines
+421,Purab Ratti,25,Female,52871,Shirt,951.56,15-06-24,Nagpur,Sitabuldi
+422,Urvi Mani,51,Male,36477,Shirt,1109.85,01-08-24,Nagpur,Sitabuldi
+423,Madhup Kari,47,Male,90467,Jeans,524.54,15-05-24,Nagpur,Civil Lines
+424,Mishti Arya,30,Male,65068,T-shirt,1761.96,27-07-24,Nagpur,Sadar
+425,Saanvi Krishna,19,Male,85846,Jeans,2140.37,18-04-24,Nagpur,Mahal
+426,Rania Tak,20,Male,95064,Shirt,2032.51,30-07-24,Nagpur,Sadar
+427,Ela Apte,62,Female,50843,T-shirt,1895.6,24-03-24,Nagpur,Sitabuldi
+428,Stuvan Gade,28,Male,51667,Jeans,840.84,02-05-24,Nagpur,Gandhibagh
+429,Lakshay Lall,65,Female,43724,Jeans,567.96,07-07-24,Nagpur,Civil Lines
+430,Elakshi Kala,30,Female,63987,Shirt,2479.18,28-01-24,Nagpur,Sadar
+431,Kiaan Shenoy,35,Male,97973,Jeans,1948.61,04-06-24,Nagpur,Dharampeth
+432,Purab Deep,27,Male,51762,Shirt,2212.77,03-02-24,Nagpur,Civil Lines
+433,Darshit Shetty,29,Female,68540,Jeans,2412.82,31-07-24,Nagpur,Sadar
+434,Vaibhav Chaudry,41,Female,59173,Shirt,675.46,19-04-24,Nagpur,Ajni
+435,Aarav Joshi,49,Male,71620,T-shirt,1890.26,22-01-24,Nagpur,Lakadganj
+436,Nirvaan Bandi,28,Male,44438,T-shirt,1504.17,12-03-24,Nagpur,Dharampeth
+437,Kaira Kibe,29,Female,59346,T-shirt,551.46,07-07-24,Nagpur,Ajni
+438,Aarush Tank,24,Female,67275,Shirt,2435.71,02-07-24,Nagpur,Civil Lines
+439,Shray Gara,48,Male,63093,T-shirt,1235.64,07-07-24,Nagpur,Civil Lines
+440,Emir Toor,18,Female,97279,Jeans,2265.3,01-06-24,Nagpur,Mahal
+441,Ira Kumar,63,Female,50453,Jeans,2344.07,16-02-24,Nagpur,Sadar
+442,Ivana Bal,30,Male,51222,T-shirt,503.97,14-05-24,Nagpur,Gandhibagh
+443,Shalv Shankar,37,Female,80066,T-shirt,1552.57,08-02-24,Nagpur,Civil Lines
+444,Aaryahi Yogi,65,Female,75810,T-shirt,2319.37,13-03-24,Nagpur,Gandhibagh
+445,Aayush Ahluwalia,19,Female,79561,T-shirt,1996.93,25-01-24,Nagpur,Lakadganj
+446,Saanvi Apte,65,Male,57926,Shirt,1140.39,07-05-24,Nagpur,Civil Lines
+447,Samar Konda,33,Female,81051,Jeans,1037.4,05-05-24,Nagpur,Civil Lines
+448,Onkar Chowdhury,48,Male,37315,Jeans,1539.98,28-07-24,Nagpur,Ajni
+449,Yuvaan Ahluwalia,43,Female,72549,T-shirt,1666.16,07-08-24,Nagpur,Gandhibagh
+450,Advika Mangat,45,Male,40297,Shirt,1545.57,31-07-24,Nagpur,Lakadganj
+451,Baiju Sura,54,Male,44709,Jeans,1503.3,02-03-24,Nagpur,Sitabuldi
+452,Misha Kadakia,18,Male,50837,T-shirt,803.99,10-04-24,Nagpur,Civil Lines
+453,Mahika Bajaj,18,Male,67570,Jeans,1546.51,24-01-24,Nagpur,Sadar
+454,Shalv Saraf,20,Male,72631,Jeans,2172.4,16-01-24,Nagpur,Lakadganj
+455,Adira Mangal,44,Male,90591,Shirt,2442.87,28-06-24,Nagpur,Ajni
+456,Armaan Krish,46,Male,59746,T-shirt,754.58,18-02-24,Nagpur,Sitabuldi
+457,Fateh Saran,39,Female,41652,Shirt,1126.79,28-04-24,Nagpur,Mahal
+458,Aaina Jani,24,Female,68858,Jeans,1798.32,09-06-24,Nagpur,Civil Lines
+459,Rasha Apte,29,Male,31877,Jeans,1652.95,23-05-24,Nagpur,Lakadganj
+460,Zaina Dayal,59,Female,55636,Jeans,665.83,23-03-24,Nagpur,Dharampeth
+461,Ojas Khare,60,Female,80089,T-shirt,1744.62,28-06-24,Nagpur,Mahal
+462,Misha Ramachandran,61,Male,67412,T-shirt,1251.99,17-02-24,Nagpur,Civil Lines
+463,Amani Sama,32,Female,69488,T-shirt,1336.63,19-06-24,Nagpur,Dharampeth
+464,Kavya Balan,23,Female,69342,Jeans,1212.94,07-06-24,Nagpur,Civil Lines
+465,Eva Suresh,59,Female,73055,T-shirt,1892.6,06-03-24,Nagpur,Sitabuldi
+466,Hrishita Banerjee,34,Male,90710,Shirt,1124.67,01-05-24,Nagpur,Gandhibagh
+467,Divit Rajagopal,42,Male,91906,Jeans,1186.45,16-06-24,Nagpur,Sitabuldi
+468,Aarush Cherian,39,Male,55421,Shirt,816.31,18-04-24,Nagpur,Civil Lines
+469,Myra Bains,56,Male,97157,Jeans,1005.62,18-05-24,Nagpur,Sitabuldi
+470,Shray Badal,53,Female,98142,T-shirt,559.54,09-06-24,Nagpur,Lakadganj
+471,Suhana Ratti,48,Male,51072,Jeans,879.16,03-07-24,Nagpur,Ajni
+472,Anvi Savant,62,Female,43034,T-shirt,1376.15,21-02-24,Nagpur,Dharampeth
+473,Samar Sem,49,Female,76158,Jeans,967.02,21-02-24,Nagpur,Ajni
+474,Rohan Lata,63,Male,42508,Jeans,1992.63,09-01-24,Nagpur,Gandhibagh
+475,Tiya Kapoor,41,Male,99596,T-shirt,1240.48,13-05-24,Nagpur,Gandhibagh
+476,Taran Kannan,51,Male,43116,Shirt,2031.06,29-06-24,Nagpur,Gandhibagh
+477,Raunak Doctor,55,Male,41831,Jeans,1451.03,09-04-24,Nagpur,Gandhibagh
+478,Aayush Char,49,Female,43726,Shirt,1448.53,19-06-24,Nagpur,Lakadganj
+479,Urvi Khosla,47,Female,36841,T-shirt,1768.41,09-02-24,Nagpur,Dharampeth
+480,Vanya Deep,57,Female,34978,Jeans,957.93,01-04-24,Nagpur,Ajni
+481,Yuvaan Saha,62,Male,98566,Shirt,637,30-03-24,Nagpur,Mahal
+482,Rania Thakkar,49,Female,61334,T-shirt,2259.23,22-04-24,Nagpur,Civil Lines
+483,Kimaya Kapur,27,Male,87838,T-shirt,2367.82,11-06-24,Nagpur,Gandhibagh
+484,Trisha Lanka,44,Female,62190,Shirt,966.89,05-05-24,Nagpur,Ajni
+485,Ira Sama,58,Female,33637,T-shirt,2334.31,15-01-24,Nagpur,Lakadganj
+486,Vihaan Varghese,53,Female,90870,T-shirt,1709.37,11-01-24,Nagpur,Ajni
+487,Madhup Bassi,34,Male,85482,Jeans,1132.11,24-02-24,Nagpur,Dharampeth
+488,Diya Walla,53,Female,71712,Shirt,689.82,05-05-24,Nagpur,Civil Lines
+489,Advika Chana,32,Female,34525,Jeans,1269.27,09-01-24,Nagpur,Ajni
+490,Aarav Chacko,62,Male,43102,Jeans,869.78,03-07-24,Nagpur,Gandhibagh
+491,Heer Banerjee,38,Male,94232,T-shirt,1540.71,14-03-24,Nagpur,Sitabuldi
+492,Sara Kashyap,57,Female,58684,Shirt,1266.72,25-02-24,Nagpur,Sitabuldi
+493,Rania Kakar,24,Female,67674,T-shirt,1119.96,17-05-24,Nagpur,Ajni
+494,Amani Dhar,20,Male,57028,T-shirt,1141.05,25-06-24,Nagpur,Mahal
+495,Yuvraj  Suri,59,Male,34839,Shirt,1945.85,21-03-24,Nagpur,Gandhibagh
+496,Hiran Bedi,35,Male,46630,Jeans,1004.23,29-07-24,Nagpur,Gandhibagh
+497,Romil Sridhar,57,Male,89281,Jeans,672.44,04-03-24,Nagpur,Lakadganj
+498,Taran Solanki,64,Male,43975,Shirt,1474.03,31-05-24,Nagpur,Mahal
+499,Adah Goda,56,Male,36129,Jeans,954.39,20-04-24,Nagpur,Gandhibagh
+500,Indranil Bath,27,Female,64701,Jeans,620.48,20-01-24,Nagpur,Lakadganj
+501,Shray Saini,41,Female,86142,Jeans,842.44,21-02-24,Nagpur,Lakadganj
+502,Mehul Ratti,49,Female,73751,Shirt,1086.22,15-06-24,Nagpur,Sitabuldi
+503,Amira Sule,46,Female,46396,T-shirt,1922.9,17-02-24,Nagpur,Mahal
+504,Vanya Shere,62,Male,60991,Jeans,1751.5,31-07-24,Nagpur,Sitabuldi
+505,Dharmajan Raj,46,Female,67715,Shirt,881.35,04-02-24,Nagpur,Sadar
+506,Jiya Khalsa,52,Female,41023,Jeans,2118.13,06-08-24,Nagpur,Mahal
+507,Amira Manda,20,Male,66980,Shirt,687.12,28-02-24,Nagpur,Lakadganj
+508,Dishani Saini,20,Female,81155,Shirt,551.62,09-05-24,Nagpur,Sadar
+509,Jayant Dhar,38,Male,45626,T-shirt,1754.1,03-03-24,Nagpur,Ajni
+510,Yuvraj  Krishnan,44,Male,43108,Jeans,1035.77,28-03-24,Nagpur,Ajni
+511,Vivaan Hayer,48,Male,71187,Jeans,1826.03,24-02-24,Nagpur,Sitabuldi
+512,Romil Virk,53,Male,84869,Jeans,1072.27,27-01-24,Nagpur,Mahal
+513,Ritvik Soni,22,Female,74231,Shirt,598.14,22-02-24,Nagpur,Sadar
+514,Myra Kulkarni,21,Female,43293,T-shirt,2447.13,29-04-24,Nagpur,Gandhibagh
+515,Lagan Wadhwa,58,Female,34285,Shirt,1354.74,15-02-24,Nagpur,Sitabuldi
+516,Vardaniya Varughese,28,Male,34864,Jeans,1886.07,26-01-24,Nagpur,Sitabuldi
+517,Pari Anand,52,Female,45780,Shirt,1429.3,23-04-24,Nagpur,Lakadganj
+518,Vardaniya Baral,58,Female,68801,T-shirt,780.34,05-08-24,Nagpur,Dharampeth
+519,Kiaan Arya,20,Male,35059,Jeans,2144.09,20-01-24,Nagpur,Dharampeth
+520,Eva Zacharia,48,Female,58573,Shirt,1034.27,04-01-24,Nagpur,Dharampeth
+521,Eva Thaker,20,Female,31693,Jeans,2418.25,02-04-24,Nagpur,Civil Lines
+522,Manjari Sule,60,Male,47895,Shirt,2194.09,31-07-24,Nagpur,Mahal
+523,Saanvi Shukla,59,Male,43282,Shirt,1286,16-01-24,Nagpur,Mahal
+524,Saira Halder,39,Male,94574,Jeans,1409.45,08-04-24,Nagpur,Mahal
+525,Farhan Ghose,34,Male,80657,Shirt,1316.33,25-06-24,Nagpur,Dharampeth
+526,Ivan Boase,52,Male,46805,T-shirt,2050.69,28-02-24,Nagpur,Lakadganj
+527,Miraan Talwar,45,Female,95156,T-shirt,900.58,05-08-24,Nagpur,Ajni
+528,Stuvan Saxena,49,Female,65751,Shirt,1063.31,09-04-24,Nagpur,Lakadganj
+529,Himmat Walia,39,Female,99366,T-shirt,1001.94,01-08-24,Nagpur,Gandhibagh
+530,Lavanya Bal,61,Female,88136,T-shirt,1974.74,07-02-24,Nagpur,Dharampeth
+531,Hrishita Randhawa,44,Female,66483,Shirt,1328.19,11-03-24,Nagpur,Mahal
+532,Saira Krish,27,Male,72968,T-shirt,1582.43,19-02-24,Nagpur,Sitabuldi
+533,Drishya Krishna,26,Female,40562,Shirt,1001.51,01-04-24,Nagpur,Dharampeth
+534,Vivaan Kalita,44,Female,50702,Jeans,1533.51,21-01-24,Nagpur,Mahal
+535,Vihaan Srinivas,37,Female,90010,Shirt,1733.46,14-02-24,Nagpur,Dharampeth
+536,Anay Hari,52,Female,47986,Jeans,1785.36,13-06-24,Nagpur,Sadar
+537,Drishya Khalsa,30,Female,67793,T-shirt,987.91,30-01-24,Nagpur,Ajni
+538,Chirag Chaudhari,37,Female,88850,Jeans,1847.89,10-04-24,Nagpur,Civil Lines
+539,Shray Upadhyay,57,Female,48989,Jeans,2159.94,22-01-24,Nagpur,Sadar
+540,Sara Soman,47,Female,86230,Shirt,1763.29,15-07-24,Nagpur,Dharampeth
+541,Abram Sarna,48,Female,70419,T-shirt,2443.42,07-05-24,Nagpur,Sadar
+542,Darshit Atwal,23,Male,45463,T-shirt,1997.22,04-07-24,Nagpur,Lakadganj
+543,Aaina Gara,55,Male,54948,T-shirt,2464.46,21-01-24,Nagpur,Gandhibagh
+544,Pihu Anand,28,Female,30722,T-shirt,1502.33,18-04-24,Nagpur,Sitabuldi
+545,Anahi Sahota,29,Male,70763,T-shirt,2015.83,07-06-24,Nagpur,Mahal
+546,Kanav Kuruvilla,28,Male,92595,Jeans,1292.34,04-02-24,Nagpur,Mahal
+547,Purab Thaman,34,Male,31190,Shirt,1528.83,17-05-24,Nagpur,Sitabuldi
+548,Divij Jayaraman,63,Male,77801,Shirt,750.54,05-08-24,Nagpur,Civil Lines
+549,Saanvi Chander,31,Male,45113,T-shirt,2238.65,24-05-24,Nagpur,Sadar
+550,Emir Das,20,Female,36090,Jeans,1444.12,17-05-24,Nagpur,Ajni
+551,Pari Johal,35,Female,50116,Shirt,629.39,14-04-24,Nagpur,Sitabuldi
+552,Keya Basak,49,Female,94482,Jeans,752.59,20-06-24,Nagpur,Sitabuldi
+553,Hunar Gour,25,Male,36626,T-shirt,1635.09,15-02-24,Nagpur,Civil Lines
+554,Biju Sachar,44,Male,68067,Jeans,891.3,02-08-24,Nagpur,Sadar
+555,Kanav Das,26,Female,31953,Shirt,597.35,27-05-24,Nagpur,Mahal
+556,Shlok Jayaraman,50,Female,49247,Jeans,1894.78,06-02-24,Nagpur,Sadar
+557,Romil Chatterjee,28,Male,75245,Jeans,1400.79,30-01-24,Nagpur,Lakadganj
+558,Veer Boase,32,Female,38044,T-shirt,976.66,09-01-24,Nagpur,Ajni
+559,Faiyaz Sankar,53,Male,41993,T-shirt,529.64,22-06-24,Nagpur,Civil Lines
+560,Zaina Mani,44,Male,50076,Jeans,1815.19,16-06-24,Nagpur,Ajni
+561,Ela Bassi,53,Female,53166,Shirt,2121.36,22-06-24,Nagpur,Mahal
+562,Jiya Dar,50,Female,43372,Jeans,1543.98,22-07-24,Nagpur,Sadar
+563,Vedika Ramakrishnan,61,Male,56050,Shirt,1093.69,10-06-24,Nagpur,Lakadganj
+564,Ojas Deep,35,Female,41353,T-shirt,790.19,01-06-24,Nagpur,Ajni
+565,Mahika Sinha,64,Female,46123,T-shirt,2069.83,18-02-24,Nagpur,Civil Lines
+566,Rati Kota,21,Male,34233,Jeans,2078.36,20-03-24,Nagpur,Sadar
+567,Aaina Hans,29,Male,75934,Shirt,1713.71,29-02-24,Nagpur,Lakadganj
+568,Devansh Ratta,64,Female,51750,Jeans,1548.12,17-01-24,Nagpur,Civil Lines
+569,Ivan Khare,43,Female,88416,Shirt,619.53,03-02-24,Nagpur,Ajni
+570,Jhanvi Mand,49,Male,55786,T-shirt,1454.81,04-06-24,Nagpur,Sitabuldi
+571,Lavanya Vyas,55,Male,92506,Jeans,2208.44,11-05-24,Nagpur,Dharampeth
+572,Mannat Raju,51,Female,64165,T-shirt,1986.33,11-02-24,Nagpur,Civil Lines
+573,Prerak Sridhar,18,Male,93892,Shirt,2122.67,18-02-24,Nagpur,Ajni
+574,Onkar Chopra,46,Male,42286,Jeans,1201.63,23-05-24,Nagpur,Civil Lines
+575,Kanav Shan,51,Female,81760,T-shirt,1878.24,23-02-24,Nagpur,Mahal
+576,Neysa Lanka,58,Female,49941,T-shirt,2186.05,27-02-24,Nagpur,Lakadganj
+577,Dishani Sood,60,Female,97899,T-shirt,1027.57,12-03-24,Nagpur,Gandhibagh
+578,Vanya Iyer,51,Male,58258,Shirt,1412.27,04-08-24,Nagpur,Sitabuldi
+579,Lavanya Wadhwa,51,Female,96578,Shirt,1655.79,04-03-24,Nagpur,Sitabuldi
+580,Prerak Ratta,62,Female,93837,T-shirt,783.27,08-03-24,Nagpur,Lakadganj
+581,Sahil Master,58,Male,91290,Jeans,1625.58,21-01-24,Nagpur,Lakadganj
+582,Dhanush Loyal,32,Male,71113,T-shirt,2193.99,22-05-24,Nagpur,Mahal
+583,Piya Bains,49,Female,49250,Jeans,1516.19,03-06-24,Nagpur,Sitabuldi
+584,Advika Golla,31,Female,66488,Jeans,2365.6,15-02-24,Nagpur,Mahal
+585,Yuvraj  Shukla,20,Female,99068,Shirt,2256.64,29-07-24,Nagpur,Mahal
+586,Mannat Bandi,47,Female,87268,Jeans,1000.01,10-04-24,Nagpur,Ajni
+587,Prerak Hayre,30,Female,30547,Shirt,1443.16,06-08-24,Nagpur,Mahal
+588,Taran Deshpande,57,Male,62994,Jeans,1699.87,09-07-24,Nagpur,Mahal
+589,Damini Chakraborty,63,Female,86839,Jeans,1837.77,08-04-24,Nagpur,Ajni
+590,Miraan Keer,37,Female,66264,Jeans,836,15-03-24,Nagpur,Sitabuldi
+591,Ryan Cheema,59,Male,64445,T-shirt,2223.77,12-01-24,Nagpur,Dharampeth
+592,Vihaan Ranganathan,33,Female,38488,T-shirt,1039.38,25-06-24,Nagpur,Ajni
+593,Miraya Sandal,20,Female,80369,Jeans,2117.61,11-01-24,Nagpur,Dharampeth
+594,Anvi Sridhar,44,Male,71923,T-shirt,1139.9,09-02-24,Nagpur,Civil Lines
+595,Adah Verma,19,Female,66725,Shirt,881.69,06-02-24,Nagpur,Gandhibagh
+596,Indrans Tella,19,Male,77395,T-shirt,1110.3,09-03-24,Nagpur,Lakadganj
+597,Shray Loke,34,Female,76500,T-shirt,991.75,08-07-24,Nagpur,Mahal
+598,Akarsh Suresh,51,Male,36269,Jeans,1180.82,11-04-24,Nagpur,Lakadganj
+599,Jivin Bhagat,43,Male,48488,T-shirt,1485.67,14-02-24,Nagpur,Lakadganj
+600,Yuvraj  Apte,59,Female,32142,T-shirt,1574.69,13-05-24,Nagpur,Lakadganj
+601,Aarna Kala,54,Female,38489,T-shirt,2273.67,27-07-24,Nagpur,Gandhibagh
+602,Piya Barad,35,Female,35924,Shirt,1287.99,17-03-24,Nagpur,Mahal
+603,Samar Kuruvilla,49,Male,84732,Shirt,1425.48,28-06-24,Nagpur,Sitabuldi
+604,Vardaniya Chadha,29,Male,83269,T-shirt,710.4,28-01-24,Nagpur,Mahal
+605,Charvi Virk,63,Female,37814,T-shirt,869.53,25-02-24,Nagpur,Sadar
+606,Manikya Rajagopal,49,Female,83556,Shirt,1231.39,17-01-24,Nagpur,Sadar
+607,Ranbir Kala,21,Male,42494,Shirt,695.15,10-05-24,Nagpur,Civil Lines
+608,Darshit Chaudhry,65,Female,81487,Jeans,2064.73,18-07-24,Nagpur,Ajni
+609,Saira Sarna,51,Male,54982,Jeans,1318.59,19-06-24,Nagpur,Gandhibagh
+610,Khushi Borra,56,Female,98284,Jeans,2434.2,01-03-24,Nagpur,Mahal
+611,Tejas Sathe,59,Male,59996,Shirt,1147.04,07-06-24,Nagpur,Sadar
+612,Damini Gola,45,Female,58294,T-shirt,1815.42,26-05-24,Nagpur,Ajni
+613,Tiya Dara,30,Male,32388,Jeans,1950.02,13-03-24,Nagpur,Mahal
+614,Dhruv Bains,44,Male,45834,T-shirt,2212.93,27-07-24,Nagpur,Gandhibagh
+615,Myra Aurora,62,Female,70769,Shirt,796.92,08-05-24,Nagpur,Civil Lines
+616,Hridaan Sood,31,Male,60461,Shirt,1635.54,29-03-24,Nagpur,Lakadganj
+617,Yasmin Kari,25,Female,31167,Jeans,754.97,12-05-24,Nagpur,Lakadganj
+618,Miraya Randhawa,28,Female,75367,Shirt,1480.13,17-01-24,Nagpur,Gandhibagh
+619,Mahika Trivedi,56,Female,32202,Shirt,1384.91,11-06-24,Nagpur,Gandhibagh
+620,Mehul Hans,48,Male,57929,Shirt,1887.58,11-04-24,Nagpur,Gandhibagh
+621,Devansh Hegde,43,Male,96390,T-shirt,2155.43,06-07-24,Nagpur,Sitabuldi
+622,Zoya Bora,48,Male,43927,Shirt,871.31,11-06-24,Nagpur,Dharampeth
+623,Kimaya Loyal,58,Female,74057,T-shirt,2377.42,28-07-24,Nagpur,Sitabuldi
+624,Rhea Thakkar,52,Male,62399,T-shirt,572.29,27-06-24,Nagpur,Civil Lines
+625,Nitara Majumdar,34,Male,55632,Shirt,2318.71,08-01-24,Nagpur,Sitabuldi
+626,Adah Bir,53,Female,45896,Shirt,1254.35,14-02-24,Nagpur,Lakadganj
+627,Renee Koshy,50,Female,88684,Shirt,1467.24,10-02-24,Nagpur,Lakadganj
+628,Ivan Kale,58,Female,84437,Jeans,1663.35,16-07-24,Nagpur,Ajni
+629,Miraan Chawla,40,Female,45756,Shirt,1196.5,15-07-24,Nagpur,Gandhibagh
+630,Zara Mahal,35,Male,40494,T-shirt,638.98,05-02-24,Nagpur,Civil Lines
+631,Rati Sehgal,26,Female,84887,T-shirt,1656.5,22-05-24,Nagpur,Mahal
+632,Nirvi Mangat,47,Female,37768,T-shirt,1039.8,08-03-24,Nagpur,Dharampeth
+633,Navya Kale,19,Female,81541,Shirt,2079.85,02-02-24,Nagpur,Gandhibagh
+634,Nirvi Som,26,Male,90032,Shirt,1724.57,19-07-24,Nagpur,Sadar
+635,Lakshit Kashyap,44,Male,34610,T-shirt,2453.64,18-06-24,Nagpur,Gandhibagh
+636,Zaina Gour,35,Male,87284,Shirt,1873.51,29-06-24,Nagpur,Sitabuldi
+637,Adah Gokhale,27,Male,67546,T-shirt,1674.1,19-05-24,Nagpur,Sadar
+638,Adira Krishnamurthy,35,Female,59338,T-shirt,2322.21,14-04-24,Nagpur,Ajni
+639,Navya Bahri,51,Female,87261,T-shirt,2437.21,07-06-24,Nagpur,Dharampeth
+640,Ivana Kashyap,35,Female,66067,Shirt,734.1,11-02-24,Nagpur,Civil Lines
+641,Anahita Bala,61,Female,66821,Shirt,1111.01,21-04-24,Nagpur,Dharampeth
+642,Ritvik Bhatia,28,Female,87081,Shirt,909.12,05-07-24,Nagpur,Dharampeth
+643,Biju Sami,29,Male,52089,Shirt,2269.27,22-07-24,Nagpur,Ajni
+644,Urvi Contractor,43,Female,30969,Jeans,1802.85,20-06-24,Nagpur,Ajni
+645,Gatik Soman,30,Male,92491,Shirt,1236.73,07-07-24,Nagpur,Mahal
+646,Ahana  Rege,49,Female,62634,Jeans,2384.5,30-03-24,Nagpur,Lakadganj
+647,Shalv Cherian,46,Female,35612,Shirt,1251.36,01-08-24,Nagpur,Sadar
+648,Miraan Rao,53,Male,41442,Shirt,1313.56,05-04-24,Nagpur,Ajni
+649,Jivin Kade,57,Female,34061,Jeans,1207.98,25-07-24,Nagpur,Sitabuldi
+650,Vardaniya Sarin,19,Male,90681,Shirt,857.36,20-07-24,Nagpur,Mahal
+651,Shamik Chadha,41,Female,48552,T-shirt,641.18,28-04-24,Nagpur,Lakadganj
+652,Sana Majumdar,45,Female,38141,Shirt,2433.4,17-04-24,Nagpur,Sitabuldi
+653,Alisha Bath,54,Male,72665,T-shirt,2481.12,29-02-24,Nagpur,Sitabuldi
+654,Riaan Bansal,21,Male,39556,T-shirt,2148.17,01-01-24,Nagpur,Sitabuldi
+655,Madhav Dhaliwal,30,Female,93220,Shirt,2117.58,07-04-24,Nagpur,Ajni
+656,Shlok Wali,65,Female,85684,Jeans,1812.6,16-05-24,Nagpur,Mahal
+657,Hunar Chawla,42,Male,78729,Shirt,2119.1,16-06-24,Nagpur,Ajni
+658,Rohan Chopra,37,Female,90299,Jeans,2176.38,19-05-24,Nagpur,Sitabuldi
+659,Yakshit Srivastava,25,Female,55844,Shirt,1242.26,04-01-24,Nagpur,Gandhibagh
+660,Oorja Master,37,Male,40215,T-shirt,2335.39,21-07-24,Nagpur,Lakadganj
+661,Siya Chokshi,20,Male,79152,T-shirt,1509.78,07-03-24,Nagpur,Gandhibagh
+662,Ira Agrawal,40,Female,75155,T-shirt,2259.97,20-07-24,Nagpur,Civil Lines
+663,Riaan Goel,30,Male,94860,Jeans,1242.07,18-06-24,Nagpur,Gandhibagh
+664,Amira Dhillon,21,Male,89823,T-shirt,2299.12,17-01-24,Nagpur,Gandhibagh
+665,Dishani Buch,49,Female,92041,Shirt,711.84,15-07-24,Nagpur,Lakadganj
+666,Siya Mallick,47,Female,84535,T-shirt,1529.09,26-03-24,Nagpur,Sitabuldi
+667,Shamik Rau,47,Male,53676,Jeans,1030.44,31-03-24,Nagpur,Lakadganj
+668,Anahita Vala,54,Female,67902,Jeans,2106.77,12-05-24,Nagpur,Civil Lines
+669,Anvi Kurian,55,Male,36763,Shirt,579.68,31-01-24,Nagpur,Ajni
+670,Tanya Sodhi,45,Female,45032,Jeans,1557.09,22-02-24,Nagpur,Lakadganj
+671,Amira Wason,20,Female,43033,Jeans,1082.64,08-04-24,Nagpur,Dharampeth
+672,Aaina Bali,33,Female,80497,T-shirt,501.03,30-01-24,Nagpur,Sitabuldi
+673,Kashvi Swamy,40,Female,68737,Jeans,2026.1,28-07-24,Nagpur,Sadar
+674,Himmat Sachdev,42,Female,48722,Shirt,1327.41,06-02-24,Nagpur,Lakadganj
+675,Anahi Taneja,45,Male,62244,Jeans,1811.03,19-06-24,Nagpur,Lakadganj
+676,Prisha Datta,33,Female,60808,T-shirt,785.65,23-07-24,Nagpur,Mahal
+677,Charvi Kalita,19,Male,88631,T-shirt,2406.03,13-04-24,Nagpur,Lakadganj
+678,Tara Halder,37,Female,83585,Shirt,712.28,19-04-24,Nagpur,Mahal
+679,Veer Wable,48,Female,72681,Jeans,1932.63,05-06-24,Nagpur,Ajni
+680,Rati Subramaniam,24,Female,81480,Jeans,2237.62,01-06-24,Nagpur,Sadar
+681,Eshani Gandhi,48,Female,76912,Shirt,2156.67,18-02-24,Nagpur,Dharampeth
+682,Vedika Date,21,Male,80165,Shirt,1829.8,20-07-24,Nagpur,Ajni
+683,Raunak Virk,58,Male,70882,Shirt,1242.19,20-02-24,Nagpur,Civil Lines
+684,Shamik Amble,28,Male,36031,Jeans,885.92,30-04-24,Nagpur,Gandhibagh
+685,Emir Bora,39,Male,75589,T-shirt,2251.57,09-03-24,Nagpur,Dharampeth
+686,Parinaaz Deol,38,Female,69365,T-shirt,556.14,01-08-24,Nagpur,Sadar
+687,Kanav Uppal,40,Male,68406,Jeans,535.25,28-02-24,Nagpur,Mahal
+688,Mishti Devi,31,Female,69451,Jeans,2477.98,07-01-24,Nagpur,Sadar
+689,Ishita Bala,58,Male,36053,T-shirt,1136.51,01-04-24,Nagpur,Mahal
+690,Tanya Desai,29,Male,60607,Shirt,1902.8,14-04-24,Nagpur,Sitabuldi
+691,Saira Chaudhuri,26,Female,92526,T-shirt,1488.32,05-02-24,Nagpur,Gandhibagh
+692,Drishya Ramanathan,59,Female,44772,T-shirt,1916.66,31-05-24,Nagpur,Gandhibagh
+693,Romil Bali,29,Male,37635,Jeans,2441.87,01-03-24,Nagpur,Mahal
+694,Heer Thaman,46,Male,58915,Shirt,2365.43,05-06-24,Nagpur,Sadar
+695,Kismat De,26,Female,86896,T-shirt,530.34,28-05-24,Nagpur,Dharampeth
+696,Kaira Basak,21,Male,53014,Shirt,1993.14,31-07-24,Nagpur,Sadar
+697,Miraan Kari,45,Female,72426,Jeans,2399.04,04-08-24,Nagpur,Civil Lines
+698,Indranil Uppal,35,Female,51504,Shirt,624.95,06-04-24,Nagpur,Lakadganj
+699,Diya Sodhi,22,Male,33030,Jeans,1881.09,01-08-24,Nagpur,Sitabuldi
+700,Urvi Suri,65,Male,33072,Shirt,1643.46,14-05-24,Nagpur,Civil Lines
+701,Prisha D’Alia,34,Female,49474,Shirt,2382.49,05-05-24,Nagpur,Dharampeth
+702,Stuvan Chandra,22,Female,40692,Jeans,1329.41,15-06-24,Nagpur,Ajni
+703,Shamik Dar,53,Female,65477,T-shirt,1421.88,28-05-24,Nagpur,Gandhibagh
+704,Ayesha Kala,19,Male,59133,T-shirt,1114.92,05-06-24,Nagpur,Mahal
+705,Anahi Chatterjee,38,Female,91903,Jeans,581.2,27-07-24,Nagpur,Lakadganj
+706,Pari Chaudhuri,54,Female,98106,Jeans,834.89,14-07-24,Nagpur,Gandhibagh
+707,Tiya Chawla,51,Male,71035,T-shirt,879.14,26-04-24,Nagpur,Sitabuldi
+708,Anay Lad,51,Female,44157,T-shirt,658.15,17-01-24,Nagpur,Dharampeth
+709,Nirvi Cheema,20,Female,83865,Shirt,1432.92,21-03-24,Nagpur,Sadar
+710,Myra Grover,65,Male,92284,T-shirt,698.85,05-08-24,Nagpur,Ajni
+711,Adira Chakraborty,19,Male,43248,Jeans,1302.96,10-05-24,Nagpur,Dharampeth
+712,Hazel Vig,47,Male,83868,T-shirt,949.51,14-01-24,Nagpur,Gandhibagh
+713,Samarth Malhotra,26,Male,54106,Jeans,704.85,10-02-24,Nagpur,Gandhibagh
+714,Aaryahi Singh,34,Male,51300,T-shirt,2420.5,26-01-24,Nagpur,Mahal
+715,Samiha Sathe,56,Female,43624,Shirt,671.96,21-01-24,Nagpur,Mahal
+716,Urvi Bhavsar,57,Female,65787,Shirt,1847.78,01-07-24,Nagpur,Civil Lines
+717,Vivaan Acharya,19,Male,72241,Shirt,1657.12,16-04-24,Nagpur,Lakadganj
+718,Indrans Wable,54,Male,72262,Shirt,1046.1,31-07-24,Nagpur,Sadar
+719,Hrishita Chandra,19,Female,57783,Shirt,959.53,01-06-24,Nagpur,Lakadganj
+720,Lakshay Sidhu,45,Male,81427,Shirt,2445.66,31-03-24,Nagpur,Mahal
+721,Vidur Kapur,38,Female,65220,Jeans,1735.25,13-02-24,Nagpur,Lakadganj
+722,Raunak Apte,37,Female,43673,Jeans,1080.97,02-03-24,Nagpur,Sadar
+723,Rasha Lanka,27,Female,34697,Jeans,1604.98,05-03-24,Nagpur,Mahal
+724,Sana Mani,34,Male,36072,T-shirt,1570.96,19-06-24,Nagpur,Ajni
+725,Kanav Ramaswamy,45,Male,48598,Shirt,2083.86,04-05-24,Nagpur,Ajni
+726,Miraan Uppal,59,Female,94818,T-shirt,1532.78,24-03-24,Nagpur,Dharampeth
+727,Kaira Mangal,33,Male,93144,T-shirt,1979.39,16-04-24,Nagpur,Mahal
+728,Divyansh Bawa,43,Male,73200,Jeans,1840.47,30-06-24,Nagpur,Mahal
+729,Diya Dey,44,Male,94949,Shirt,1366.76,10-01-24,Nagpur,Mahal
+730,Indranil Trivedi,27,Female,39646,T-shirt,870.87,15-06-24,Nagpur,Dharampeth
+731,Anahi Karpe,40,Female,72012,T-shirt,1473.65,03-03-24,Nagpur,Ajni
+732,Samarth Warrior,63,Male,73889,Jeans,552.07,18-03-24,Nagpur,Gandhibagh
+733,Jivin Chand,55,Male,50874,Shirt,1661.06,06-03-24,Nagpur,Sadar
+734,Tara Sachdeva,57,Female,94672,Shirt,1275.52,06-03-24,Nagpur,Mahal
+735,Rania Badal,57,Male,74843,Jeans,627.47,07-08-24,Nagpur,Sadar
+736,Aniruddh Bumb,18,Male,34405,Jeans,1120.68,09-06-24,Nagpur,Gandhibagh
+737,Aradhya Goda,63,Male,81000,T-shirt,2455.43,17-06-24,Nagpur,Civil Lines
+738,Nirvi Hora,52,Female,65716,T-shirt,2435.57,03-01-24,Nagpur,Civil Lines
+739,Taran Contractor,45,Male,52949,Jeans,687.16,29-02-24,Nagpur,Civil Lines
+740,Piya Chowdhury,53,Male,32499,Shirt,2270.4,28-05-24,Nagpur,Sitabuldi
+741,Mehul Bhatia,57,Female,83482,T-shirt,749.55,24-01-24,Nagpur,Lakadganj
+742,Ayesha Ratta,48,Male,72008,T-shirt,1620.59,07-02-24,Nagpur,Gandhibagh
+743,Priyansh Mani,26,Female,41381,Shirt,743.67,30-03-24,Nagpur,Sadar
+744,Divit Balasubramanian,31,Female,79307,Shirt,1891.98,09-04-24,Nagpur,Dharampeth
+745,Bhamini Tata,20,Male,86973,T-shirt,1512.54,05-01-24,Nagpur,Dharampeth
+746,Heer Singhal,34,Male,30991,Jeans,979,11-02-24,Nagpur,Sitabuldi
+747,Romil Walla,53,Female,73788,Shirt,2404.14,18-01-24,Nagpur,Lakadganj
+748,Navya Sem,45,Female,44737,Shirt,746.23,24-06-24,Nagpur,Dharampeth
+749,Lagan Ghose,63,Female,38204,Jeans,1561.83,13-02-24,Nagpur,Dharampeth
+750,Jivika Rana,52,Female,37311,T-shirt,1510.2,09-07-24,Nagpur,Dharampeth
+751,Mohanlal Vig,65,Female,59365,Jeans,2302.34,21-04-24,Nagpur,Ajni
+752,Lakshay Chatterjee,27,Female,64096,Jeans,1861.37,19-07-24,Nagpur,Gandhibagh
+753,Jayesh Magar,64,Female,92261,Jeans,1958.55,17-06-24,Nagpur,Mahal
+754,Mohanlal Barad,32,Male,56491,Shirt,1121.24,28-04-24,Nagpur,Sitabuldi
+755,Shray Roy,56,Male,69523,Shirt,528.21,01-02-24,Nagpur,Sadar
+756,Vihaan Tailor,24,Female,64047,Shirt,2314.25,30-01-24,Nagpur,Mahal
+757,Pranay Sodhi,56,Male,37740,Jeans,2147.09,27-01-24,Nagpur,Sitabuldi
+758,Shalv Chakrabarti,62,Female,73850,Jeans,593.45,18-02-24,Nagpur,Civil Lines
+759,Pari Madan,60,Male,86030,T-shirt,2101.37,30-07-24,Nagpur,Civil Lines
+760,Indrajit Biswas,55,Female,99025,T-shirt,668.69,12-02-24,Nagpur,Ajni
+761,Romil Baral,18,Male,55226,Jeans,883.47,13-05-24,Nagpur,Gandhibagh
+762,Taran Dani,22,Female,87534,T-shirt,829.79,28-01-24,Nagpur,Mahal
+763,Jayan Edwin,41,Male,50519,Shirt,851.56,19-03-24,Nagpur,Gandhibagh
+764,Ojas Jhaveri,39,Female,98096,T-shirt,764.35,18-03-24,Nagpur,Mahal
+765,Faiyaz Khanna,45,Female,56768,Jeans,2377.42,31-01-24,Nagpur,Mahal
+766,Anay Chandra,65,Male,75300,Jeans,615.45,09-01-24,Nagpur,Civil Lines
+767,Renee Shanker,64,Female,97276,Jeans,1326.96,26-04-24,Nagpur,Civil Lines
+768,Nakul Sandhu,43,Female,51450,Shirt,2498.3,09-02-24,Nagpur,Civil Lines
+769,Shayak Lad,26,Female,36836,Shirt,2077.42,25-05-24,Nagpur,Lakadganj
+770,Oorja Ghose,24,Female,55394,Shirt,1131.53,14-02-24,Nagpur,Civil Lines
+771,Vanya Bhasin,59,Male,90703,T-shirt,1704.24,14-01-24,Nagpur,Mahal
+772,Zara Dhawan,56,Female,72957,Shirt,2292.43,14-06-24,Nagpur,Gandhibagh
+773,Madhup Upadhyay,62,Female,66513,Jeans,936.94,07-04-24,Nagpur,Civil Lines
+774,Mamooty Hayre,32,Male,74494,Jeans,2480.05,16-05-24,Nagpur,Sadar
+775,Madhup Mahal,33,Male,79191,Jeans,1849.59,09-04-24,Nagpur,Sitabuldi
+776,Samaira Sen,41,Female,35442,T-shirt,1379.25,11-01-24,Nagpur,Lakadganj
+777,Mamooty Arora,51,Male,60572,Shirt,771.01,12-07-24,Nagpur,Gandhibagh
+778,Hansh Lad,44,Female,37287,T-shirt,1876.78,17-01-24,Nagpur,Sadar
+779,Anvi Chaudhary,61,Female,84322,Jeans,2466.4,02-08-24,Nagpur,Ajni
+780,Bhavin Shetty,50,Male,85219,T-shirt,2069.88,25-03-24,Nagpur,Civil Lines
+781,Drishya Sastry,54,Male,72787,Shirt,1762.14,30-05-24,Nagpur,Gandhibagh
+782,Abram Kari,27,Male,47554,Jeans,1908.4,25-05-24,Nagpur,Mahal
+783,Umang Dey,32,Female,55974,Jeans,936.3,29-05-24,Nagpur,Dharampeth
+784,Heer Kalla,51,Female,59869,T-shirt,653.26,04-06-24,Nagpur,Ajni
+785,Zaina Thakkar,54,Female,51466,T-shirt,2471.32,10-02-24,Nagpur,Mahal
+786,Navya Keer,51,Female,54138,Jeans,1780.34,28-02-24,Nagpur,Civil Lines
+787,Keya Rajan,28,Male,34452,T-shirt,895.04,22-01-24,Nagpur,Sadar
+788,Seher Majumdar,40,Female,82703,Shirt,1578.47,23-01-24,Nagpur,Dharampeth
+789,Indrans Biswas,52,Female,98913,Shirt,1962.16,03-03-24,Nagpur,Gandhibagh
+790,Neysa Doshi,61,Male,52714,Shirt,1938.57,04-02-24,Nagpur,Gandhibagh
+791,Stuvan Dasgupta,35,Male,59475,T-shirt,2174.69,03-06-24,Nagpur,Ajni
+792,Anay Hans,62,Male,45517,Shirt,2235.17,02-03-24,Nagpur,Ajni
+793,Fateh Gour,58,Male,62442,T-shirt,838.21,22-07-24,Nagpur,Gandhibagh
+794,Kanav Goyal,55,Female,40484,T-shirt,2009.74,10-01-24,Nagpur,Civil Lines
+795,Ela Khurana,37,Male,68822,T-shirt,1354.4,14-01-24,Nagpur,Gandhibagh
+796,Vardaniya Rau,39,Male,93270,T-shirt,2148.45,17-03-24,Nagpur,Sadar
+797,Dhanuk Ramanathan,22,Female,62440,Jeans,2025.33,01-07-24,Nagpur,Ajni
+798,Priyansh Rama,41,Male,82490,Shirt,1964.45,20-01-24,Nagpur,Gandhibagh
+799,Urvi Sinha,59,Male,62157,Jeans,1764.08,20-06-24,Nagpur,Civil Lines
+800,Priyansh Jain,28,Female,81927,T-shirt,1612.12,12-02-24,Nagpur,Ajni
+801,Dhruv Choudhury,19,Female,48315,Jeans,1339.94,13-04-24,Nagpur,Sadar
+802,Vritika Rao,40,Female,79601,Jeans,2245.97,24-03-24,Nagpur,Sitabuldi
+803,Advik Chad,36,Female,66836,T-shirt,1112.86,09-03-24,Nagpur,Sitabuldi
+804,Aaina Karpe,59,Female,72002,Jeans,837.77,21-04-24,Nagpur,Lakadganj
+805,Dhanush Malhotra,39,Male,86519,Jeans,2189.31,03-04-24,Nagpur,Lakadganj
+806,Adira De,35,Male,91557,T-shirt,1704.88,10-07-24,Nagpur,Civil Lines
+807,Manikya Balan,19,Male,49108,T-shirt,837.01,02-03-24,Nagpur,Civil Lines
+808,Samiha Rastogi,30,Female,92227,Jeans,997.53,20-03-24,Nagpur,Ajni
+809,Madhup Banik,35,Female,80320,Shirt,511.62,29-03-24,Nagpur,Sitabuldi
+810,Kanav Dyal,62,Male,36348,Shirt,1487.16,13-06-24,Nagpur,Ajni
+811,Siya Khosla,33,Female,78824,T-shirt,730.43,22-05-24,Nagpur,Sitabuldi
+812,Urvi Ramachandran,26,Male,51765,Jeans,1852.06,30-06-24,Nagpur,Sadar
+813,Aaryahi Sami,43,Male,79383,T-shirt,670.23,05-04-24,Nagpur,Gandhibagh
+814,Mahika Barman,63,Male,47135,Shirt,2228.99,13-01-24,Nagpur,Lakadganj
+815,Renee Savant,61,Male,76492,Jeans,2065.11,13-04-24,Nagpur,Gandhibagh
+816,Vidur Chaudhuri,64,Male,40173,Jeans,2180.81,08-01-24,Nagpur,Dharampeth
+817,Vaibhav D’Alia,56,Female,80235,Jeans,2095.25,31-05-24,Nagpur,Civil Lines
+818,Priyansh Dave,58,Male,87585,Shirt,591.18,31-07-24,Nagpur,Civil Lines
+819,Taimur Gandhi,61,Female,88883,Shirt,1257.18,16-07-24,Nagpur,Ajni
+820,Ela Garde,55,Female,50295,T-shirt,1451.83,18-07-24,Nagpur,Sitabuldi
+821,Jayan Varty,46,Female,75747,Jeans,1356.15,30-04-24,Nagpur,Gandhibagh
+822,Dishani Bahl,31,Male,57195,Jeans,1173.63,17-02-24,Nagpur,Gandhibagh
+823,Aradhya Barman,51,Female,53940,Shirt,1981.41,26-05-24,Nagpur,Mahal
+824,Farhan Venkataraman,23,Male,33222,T-shirt,2195.37,02-07-24,Nagpur,Gandhibagh
+825,Emir Gandhi,26,Female,39277,Jeans,1435.29,26-02-24,Nagpur,Civil Lines
+826,Dishani Sodhi,49,Female,80638,T-shirt,2128.56,14-02-24,Nagpur,Gandhibagh
+827,Manikya Lal,53,Female,71697,Shirt,812.4,15-03-24,Nagpur,Lakadganj
+828,Mohanlal Gill,39,Female,78255,Shirt,1741.91,14-02-24,Nagpur,Civil Lines
+829,Kiara Agarwal,38,Male,50824,Shirt,2008.46,11-03-24,Nagpur,Civil Lines
+830,Riaan Bora,49,Male,65037,Shirt,2165.28,07-04-24,Nagpur,Mahal
+831,Kartik Goda,37,Female,51445,T-shirt,1163.7,10-02-24,Nagpur,Lakadganj
+832,Aaina Johal,26,Male,51267,T-shirt,2003.08,04-07-24,Nagpur,Dharampeth
+833,Pranay Upadhyay,19,Male,56215,T-shirt,1495.01,02-04-24,Nagpur,Mahal
+834,Prisha Ramesh,45,Female,58772,Jeans,1624.09,02-06-24,Nagpur,Sadar
+835,Tiya Bhargava,18,Male,33551,Jeans,2162.76,16-04-24,Nagpur,Ajni
+836,Nirvi Korpal,54,Female,91954,Jeans,1090.14,02-07-24,Nagpur,Civil Lines
+837,Samiha Gala,60,Female,35451,Jeans,1159.3,30-05-24,Nagpur,Sitabuldi
+838,Himmat Hegde,42,Female,68556,Jeans,876,28-01-24,Nagpur,Gandhibagh
+839,Zaina Bansal,39,Female,69858,Jeans,1359.3,16-02-24,Nagpur,Civil Lines
+840,Piya Mandal,28,Female,46670,Jeans,2224.36,31-03-24,Nagpur,Gandhibagh
+841,Ishaan Barad,48,Female,76045,T-shirt,976.06,02-07-24,Nagpur,Lakadganj
+842,Stuvan Kashyap,46,Male,89012,Jeans,2327.15,24-01-24,Nagpur,Dharampeth
+843,Aaina Bajwa,21,Male,70805,Jeans,1173.96,26-01-24,Nagpur,Sadar
+844,Romil Sunder,61,Female,84685,Shirt,1983.95,15-02-24,Nagpur,Gandhibagh
+845,Purab Gandhi,28,Female,92113,Shirt,1201.5,12-05-24,Nagpur,Mahal
+846,Hrishita Ramachandran,47,Male,39656,Shirt,875.84,30-04-24,Nagpur,Mahal
+847,Elakshi Ahluwalia,25,Female,63513,T-shirt,2210.67,01-05-24,Nagpur,Sadar
+848,Dhanush Singhal,45,Female,67434,Shirt,1285.87,11-05-24,Nagpur,Mahal
+849,Purab Rajagopalan,43,Female,65579,Jeans,1889.98,07-06-24,Nagpur,Gandhibagh
+850,Lakshay Biswas,34,Female,63747,T-shirt,2216.04,01-04-24,Nagpur,Gandhibagh
+851,Renee Bhatia,60,Female,87307,T-shirt,540.93,23-04-24,Nagpur,Gandhibagh
+852,Ryan Kunda,36,Female,90382,Jeans,813.73,03-02-24,Nagpur,Ajni
+853,Stuvan Wason,21,Female,99828,Jeans,1569.88,05-06-24,Nagpur,Gandhibagh
+854,Manikya Gaba,48,Male,77530,Jeans,802.83,04-02-24,Nagpur,Civil Lines
+855,Rohan Behl,41,Male,68756,Jeans,1469.85,22-01-24,Nagpur,Gandhibagh
+856,Alisha Lalla,27,Male,72787,Shirt,1591.94,19-05-24,Nagpur,Sadar
+857,Anya Aggarwal,64,Female,70849,Jeans,1320.95,29-02-24,Nagpur,Civil Lines
+858,Rasha Wable,47,Female,94114,T-shirt,732.86,24-05-24,Nagpur,Mahal
+859,Nirvaan Bal,22,Male,60252,T-shirt,1148.97,17-06-24,Nagpur,Sitabuldi
+860,Piya Raman,20,Male,91499,Shirt,1973.05,18-06-24,Nagpur,Ajni
+861,Romil Chada,34,Female,81440,Jeans,548.08,29-06-24,Nagpur,Sadar
+862,Parinaaz Kashyap,52,Male,52298,T-shirt,717.91,20-01-24,Nagpur,Mahal
+863,Divij Madan,42,Female,44190,T-shirt,699.35,13-07-24,Nagpur,Sitabuldi
+864,Veer Dash,54,Female,33740,T-shirt,2313.08,01-06-24,Nagpur,Mahal
+865,Himmat Divan,46,Female,45045,Jeans,1082.27,01-07-24,Nagpur,Lakadganj
+866,Adah Iyengar,29,Female,38951,T-shirt,1503.33,07-06-24,Nagpur,Sadar
+867,Riya Deshpande,57,Female,83994,Jeans,1882.18,05-07-24,Nagpur,Sitabuldi
+868,Saksham Kala,48,Male,81322,T-shirt,1305.47,02-07-24,Nagpur,Gandhibagh
+869,Dhanush Chowdhury,31,Male,79973,Shirt,988.54,09-01-24,Nagpur,Ajni
+870,Drishya Khurana,41,Female,76501,Shirt,515.04,07-02-24,Nagpur,Sadar
+871,Aradhya Doctor,52,Female,99354,Shirt,1081.22,23-02-24,Nagpur,Sadar
+872,Aarna Baral,49,Female,48165,Shirt,2187.29,03-03-24,Nagpur,Gandhibagh
+873,Vivaan Iyer,59,Female,63960,Shirt,1854.17,17-04-24,Nagpur,Ajni
+874,Jivika Loke,19,Female,45234,T-shirt,869.44,20-02-24,Nagpur,Mahal
+875,Vivaan Bhakta,60,Female,47536,T-shirt,1897.91,25-03-24,Nagpur,Lakadganj
+876,Hrishita Majumdar,57,Male,74890,Jeans,1778.93,30-06-24,Nagpur,Civil Lines
+877,Onkar Srinivasan,48,Female,39680,T-shirt,1650.72,05-05-24,Nagpur,Ajni
+878,Misha Sagar,60,Female,32986,T-shirt,1842.42,27-04-24,Nagpur,Ajni
+879,Vardaniya Agarwal,65,Female,81608,Jeans,2359.61,19-01-24,Nagpur,Mahal
+880,Rasha Shukla,43,Male,75499,Jeans,1503.33,09-04-24,Nagpur,Lakadganj
+881,Raghav Andra,30,Female,45669,T-shirt,2273.79,17-06-24,Nagpur,Ajni
+882,Saanvi Chakraborty,43,Female,34143,Shirt,748.52,06-08-24,Nagpur,Sitabuldi
+883,Ela Chopra,50,Female,61680,Jeans,2306.45,02-08-24,Nagpur,Ajni
+884,Miraan Yadav,60,Female,94484,T-shirt,1168.85,05-02-24,Nagpur,Mahal
+885,Anika Goyal,33,Male,30279,Jeans,1049.07,05-03-24,Nagpur,Gandhibagh
+886,Manjari Devan,60,Female,42641,Shirt,1602.27,01-02-24,Nagpur,Sadar
+887,Advika Basu,32,Female,70887,Jeans,504.74,09-06-24,Nagpur,Sadar
+888,Vivaan Dhingra,38,Male,98947,Shirt,850.27,11-06-24,Nagpur,Dharampeth
+889,Taran Chaudhari,28,Male,95837,Shirt,1475.39,21-05-24,Nagpur,Sadar
+890,Jivika Ratti,43,Female,79931,Shirt,1766.21,15-05-24,Nagpur,Gandhibagh
+891,Stuvan Chahal,27,Male,65304,Shirt,677.63,28-03-24,Nagpur,Gandhibagh
+892,Nehmat Dass,63,Female,65242,Shirt,1654.86,03-06-24,Nagpur,Mahal
+893,Ryan D’Alia,30,Female,87375,T-shirt,1266.75,08-04-24,Nagpur,Sadar
+894,Lagan Sekhon,23,Male,97134,T-shirt,1755,02-08-24,Nagpur,Dharampeth
+895,Divij Chhabra,60,Male,76250,Shirt,1809.81,16-01-24,Nagpur,Civil Lines
+896,Priyansh Brahmbhatt,58,Female,52552,Shirt,1498.62,22-02-24,Nagpur,Mahal
+897,Keya Sehgal,48,Female,87355,T-shirt,2337.53,10-03-24,Nagpur,Sitabuldi
+898,Fateh Walia,42,Male,45335,Shirt,2373.96,30-01-24,Nagpur,Dharampeth
+899,Ahana  Ganesh,50,Female,62218,Shirt,1016.16,28-05-24,Nagpur,Sitabuldi
+900,Oorja Warrior,40,Male,80500,Shirt,1080.78,07-01-24,Nagpur,Gandhibagh
+901,Pari Swaminathan,51,Female,52022,Shirt,1656.52,15-07-24,Nagpur,Sitabuldi
+902,Bhamini Sundaram,49,Male,46999,T-shirt,1553.77,13-05-24,Nagpur,Mahal
+903,Saanvi Dugar,44,Female,72417,T-shirt,1238.06,15-06-24,Nagpur,Ajni
+904,Tarini Mandal,55,Male,37661,Shirt,568.85,23-07-24,Nagpur,Ajni
+905,Jiya Chada,59,Female,92324,T-shirt,1406.49,30-01-24,Nagpur,Sitabuldi
+906,Romil Som,31,Male,51639,Jeans,2118.66,18-06-24,Nagpur,Sadar
+907,Nakul Andra,26,Female,51552,Shirt,1027.4,30-06-24,Nagpur,Dharampeth
+908,Kiaan Gera,46,Male,53863,T-shirt,1298.66,29-06-24,Nagpur,Mahal
+909,Jiya Vig,50,Female,95589,Jeans,1118.63,03-06-24,Nagpur,Sitabuldi
+910,Anay Zacharia,24,Male,74442,Shirt,2015.17,11-01-24,Nagpur,Civil Lines
+911,Mehul Swaminathan,49,Female,91674,Jeans,949.09,31-03-24,Nagpur,Ajni
+912,Ritvik Dube,49,Male,57696,Shirt,1552.16,07-02-24,Nagpur,Civil Lines
+913,Mishti Chauhan,32,Male,54076,Shirt,1623.71,01-02-24,Nagpur,Civil Lines
+914,Jivika Varkey,34,Female,33520,T-shirt,2060.28,07-05-24,Nagpur,Civil Lines
+915,Manjari Keer,61,Male,91984,Shirt,2097.32,16-04-24,Nagpur,Sitabuldi
+916,Trisha Wable,31,Male,58759,T-shirt,1188.63,21-03-24,Nagpur,Dharampeth
+917,Anay Wali,31,Male,43331,Jeans,1017.99,21-06-24,Nagpur,Civil Lines
+918,Tejas Sood,56,Male,72695,T-shirt,548.03,02-06-24,Nagpur,Sitabuldi
+919,Ranbir Chawla,58,Male,71884,Shirt,1053.73,28-04-24,Nagpur,Ajni
+920,Elakshi Ravel,30,Female,86066,T-shirt,2128.58,24-01-24,Nagpur,Sadar
+921,Oorja Saraf,49,Male,87512,Shirt,1933.9,02-05-24,Nagpur,Gandhibagh
+922,Romil Baral,55,Female,70828,T-shirt,2154.21,01-02-24,Nagpur,Gandhibagh
+923,Prisha Chhabra,40,Female,48454,T-shirt,2094.82,09-01-24,Nagpur,Civil Lines
+924,Nishith Dhawan,26,Female,50179,Shirt,2077.65,04-07-24,Nagpur,Ajni
+925,Kavya Lalla,29,Female,30270,T-shirt,954.51,25-02-24,Nagpur,Sitabuldi
+926,Ojas Gade,58,Female,31108,Jeans,836.03,08-06-24,Nagpur,Sadar
+927,Manjari Bakshi,26,Female,81715,T-shirt,1663.24,21-06-24,Nagpur,Ajni
+928,Nirvaan Chandran,24,Male,72131,T-shirt,1438.27,26-05-24,Nagpur,Dharampeth
+929,Madhav Sankaran,34,Female,46267,T-shirt,1036.78,26-01-24,Nagpur,Civil Lines
+930,Indrans Tripathi,19,Female,37848,Jeans,2483.58,23-06-24,Nagpur,Mahal
+931,Manjari Issac,39,Male,51423,Jeans,2421.43,03-08-24,Nagpur,Ajni
+932,Charvi Shanker,23,Male,72644,Shirt,1079.26,04-03-24,Nagpur,Sadar
+933,Faiyaz Hayre,32,Female,36708,T-shirt,2381.77,02-01-24,Nagpur,Civil Lines
+934,Ishaan Bala,24,Female,53063,Jeans,2279.02,07-04-24,Nagpur,Dharampeth
+935,Tarini D’Alia,24,Female,41634,Jeans,1806.44,18-04-24,Nagpur,Ajni
+936,Navya Swamy,50,Female,56990,T-shirt,1480.7,24-01-24,Nagpur,Ajni
+937,Vidur Uppal,30,Male,47434,T-shirt,1717.2,28-06-24,Nagpur,Civil Lines
+938,Arnav Kapoor,59,Female,50386,T-shirt,987.2,20-04-24,Nagpur,Sitabuldi
+939,Pranay Savant,47,Female,57970,Shirt,521.31,26-05-24,Nagpur,Lakadganj
+940,Zaina Kumer,30,Male,88066,Jeans,2331.07,13-04-24,Nagpur,Dharampeth
+941,Saksham Ahuja,35,Male,52343,T-shirt,1561.19,19-07-24,Nagpur,Sadar
+942,Rania Bala,45,Male,49179,T-shirt,806.39,25-06-24,Nagpur,Civil Lines
+943,Samaira Bhatia,24,Female,48711,Shirt,2303.4,22-03-24,Nagpur,Mahal
+944,Damini Sidhu,48,Female,88276,T-shirt,1476.55,25-03-24,Nagpur,Mahal
+945,Tanya Choudhary,53,Male,92793,T-shirt,1003.57,02-07-24,Nagpur,Sadar
+946,Samiha Bhasin,53,Female,69162,Jeans,658.33,31-01-24,Nagpur,Gandhibagh
+947,Charvi Ram,36,Male,94171,Jeans,1011.57,11-05-24,Nagpur,Lakadganj
+948,Hunar Choudhury,59,Female,76738,Jeans,687,22-05-24,Nagpur,Sitabuldi
+949,Mamooty Solanki,65,Female,64250,T-shirt,1379.5,04-05-24,Nagpur,Dharampeth
+950,Vardaniya Loke,64,Female,90323,Shirt,1609.45,26-02-24,Nagpur,Lakadganj
+951,Yakshit Kumar,47,Male,53024,Jeans,2298.7,27-01-24,Nagpur,Sitabuldi
+952,Dishani Ratti,55,Female,68455,Shirt,2379.64,25-05-24,Nagpur,Lakadganj
+953,Anya Srinivas,27,Male,48654,T-shirt,1141.42,23-07-24,Nagpur,Sadar
+954,Raghav Lala,33,Female,56701,T-shirt,1466.73,16-04-24,Nagpur,Civil Lines
+955,Myra Vig,56,Female,92286,Shirt,1554.69,10-05-24,Nagpur,Civil Lines
+956,Indranil Balasubramanian,60,Male,46979,Shirt,1054.84,01-05-24,Nagpur,Lakadganj
+957,Divij Sarkar,50,Male,51132,Shirt,1417.19,09-07-24,Nagpur,Sitabuldi
+958,Nitara Karan,41,Female,81876,T-shirt,2479.37,16-03-24,Nagpur,Dharampeth
+959,Divyansh Viswanathan,33,Female,39151,T-shirt,758.3,20-01-24,Nagpur,Dharampeth
+960,Purab Chahal,26,Female,62790,Jeans,1030.33,14-04-24,Nagpur,Civil Lines
+961,Nirvi Chowdhury,63,Female,37688,Shirt,1109.93,13-04-24,Nagpur,Civil Lines
+962,Saira Tara,42,Male,95902,Shirt,2414.23,03-02-24,Nagpur,Lakadganj
+963,Hrishita Suri,32,Female,56309,T-shirt,2415.77,15-06-24,Nagpur,Ajni
+964,Rohan Srinivasan,52,Female,47498,T-shirt,953.46,03-07-24,Nagpur,Civil Lines
+965,Madhav Rastogi,29,Female,78511,Jeans,2188.92,10-06-24,Nagpur,Mahal
+966,Taran Sangha,48,Female,70658,Shirt,759.84,05-03-24,Nagpur,Mahal
+967,Dhanush Sidhu,55,Female,88677,Shirt,1482.1,14-04-24,Nagpur,Civil Lines
+968,Shray Randhawa,64,Female,88368,T-shirt,2115.77,03-01-24,Nagpur,Lakadganj
+969,Prerak Chanda,37,Female,73358,Jeans,700.21,22-03-24,Nagpur,Dharampeth
+970,Hazel Khosla,49,Female,58780,Shirt,518.5,07-05-24,Nagpur,Civil Lines
+971,Dhruv Khosla,59,Male,36946,Jeans,2458.26,28-05-24,Nagpur,Sadar
+972,Aradhya Basu,58,Male,64866,Shirt,959.6,24-06-24,Nagpur,Dharampeth
+973,Sara Kulkarni,51,Female,43695,T-shirt,2253.21,09-01-24,Nagpur,Sitabuldi
+974,Aarush Sankar,52,Male,48664,Jeans,2420.81,22-06-24,Nagpur,Civil Lines
+975,Ojas Bail,46,Male,99486,Jeans,602.98,12-02-24,Nagpur,Lakadganj
+976,Shaan Gala,41,Male,53571,Jeans,1082.89,11-05-24,Nagpur,Sadar
+977,Vivaan Goda,34,Male,75065,Jeans,1440.04,21-04-24,Nagpur,Dharampeth
+978,Lakshay Date,43,Female,71034,Jeans,1380.88,08-06-24,Nagpur,Ajni
+979,Parinaaz Kaul,29,Male,94320,T-shirt,1334.17,01-05-24,Nagpur,Gandhibagh
+980,Lakshit Bhakta,45,Male,41017,T-shirt,2456.33,10-04-24,Nagpur,Mahal
+981,Rati Srinivas,32,Male,59182,T-shirt,1389.29,02-03-24,Nagpur,Lakadganj
+982,Kimaya Goyal,35,Female,59481,Shirt,1419.69,09-03-24,Nagpur,Ajni
+983,Inaaya  Barad,48,Male,36922,T-shirt,1306.26,19-02-24,Nagpur,Gandhibagh
+984,Biju Bali,57,Male,33017,Shirt,2162.32,24-04-24,Nagpur,Lakadganj
+985,Lakshit Dara,57,Female,34167,Jeans,2227.03,15-03-24,Nagpur,Civil Lines
+986,Tiya Vaidya,21,Male,85713,T-shirt,1191.76,26-05-24,Nagpur,Dharampeth
+987,Zain Thaker,33,Female,63426,T-shirt,1641.09,02-07-24,Nagpur,Sitabuldi
+988,Taimur Krishnan,65,Female,36432,Shirt,2098.74,31-05-24,Nagpur,Gandhibagh
+989,Samaira Chana,23,Female,90992,Jeans,2086.78,17-02-24,Nagpur,Ajni
+990,Zaina Vora,48,Female,83053,T-shirt,535.54,03-02-24,Nagpur,Sadar
+991,Heer Grewal,36,Male,96603,Shirt,826.74,27-02-24,Nagpur,Sadar
+992,Uthkarsh Sami,58,Male,32798,T-shirt,1379.47,22-02-24,Nagpur,Sadar
+993,Shray Mann,45,Male,40574,T-shirt,543.13,02-01-24,Nagpur,Sitabuldi
+994,Miraya Sarin,47,Male,48151,Shirt,1286.83,22-03-24,Nagpur,Sadar
+995,Arnav Thakur,19,Male,43021,T-shirt,1096.68,08-05-24,Nagpur,Gandhibagh
+996,Aradhya Dani,62,Male,63874,Shirt,586.16,21-07-24,Nagpur,Ajni
+997,Gokul Karnik,60,Male,69645,Jeans,876.45,28-04-24,Nagpur,Ajni
+998,Ojas Mander,43,Female,68421,Jeans,1651.08,19-07-24,Nagpur,Lakadganj
+999,Saksham Varma,35,Female,97780,Jeans,2381.87,16-05-24,Nagpur,Lakadganj
+1000,Ehsaan Agate,46,Male,84996,Jeans,2035.69,31-05-24,Nagpur,Gandhibagh
